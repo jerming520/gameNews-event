@@ -3,36 +3,51 @@ name: Update News Data
 on:
   push:
   schedule:
-    - cron: "0 */12 * * *"
-  workflow_dispatch:
+    - cron: "0 */12 * * *"   # 每12小時跑一次
+  workflow_dispatch:         # 可手動執行
+
+permissions:
+  contents: write   # ⭐ 讓 github-actions 可以 push
 
 jobs:
   update:
     runs-on: ubuntu-latest
 
     steps:
+      # 1️⃣ 下載 repo
       - name: Checkout
         uses: actions/checkout@v3
         with:
           persist-credentials: true
 
+      # 2️⃣ 安裝 Python
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: "3.10"
 
+      # 3️⃣ 安裝套件
       - name: Install packages
         run: |
           python -m pip install --upgrade pip
           pip install requests beautifulsoup4
 
+      # 4️⃣ 執行爬蟲
       - name: Run crawler
         run: python crawl-all/crawler.py
 
+      # 5️⃣ commit + push
       - name: Commit changes
         run: |
           git config --global user.name "github-actions"
           git config --global user.email "actions@github.com"
+
           git add .
-          git diff --cached --quiet && echo "no change" || git commit -m "update data"
-          git push
+
+          # 如果沒有變更就不 commit（避免報錯）
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "update news data"
+            git push origin main
+          fi
