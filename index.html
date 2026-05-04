@@ -1,0 +1,1001 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>test-website</title>
+    <!--  -->
+    <link rel="icon" href="./media/favicon.ico" type="image/x-icon" />
+    <!--  -->
+    <link rel="stylesheet" href="./plugins/bootstrap.min.css" />
+    <script defer src="./plugins/bootstrap.bundle.min.js"></script>
+    <!--  -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+    <!--  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+    />
+    <!--  -->
+    <!-- <link rel="stylesheet" href="./media/demo_0.jpg" /> -->
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/localeData.js"></script>
+    <!--  -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <!--  -->
+    <link rel="stylesheet" href="./plugins/style.css" />
+  </head>
+  <body>
+    <!-- 導覽列 -->
+    <nav
+      class="navbar navbar-expand-lg navbar-dark bg-dark bg-opacity-10"
+      data-bs-theme="dark"
+    >
+      <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="#">
+          <span class="fa-stack">
+            <i class="fa-solid fa-circle fa-stack-2x text-light"></i>
+            <i class="fa-solid fa-star fa-stack-1x text-dark"></i>
+          </span>
+          <span>gameNews</span>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#Menu"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div id="Menu" class="collapse navbar-collapse">
+          <div class="navbar-nav ms-auto gap-0 gap-lg-3 ps-5 ps-lg-0">
+            <!-- 在https://getbootstrap.com/docs/5.3/components/navbar/#nav有另一個寫法a不用li-->
+            <a class="nav-link" href="#top">top</a>
+            <a class="nav-link" href="#etToday">etToday</a>
+            <a class="nav-link" href="#gameApps">gameApps</a>
+            <a class="nav-link" href="#setn">setn</a>
+            <div class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#email"
+                data-bs-toggle="dropdown"
+                >contact</a
+              >
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#email">email</a></li>
+                <li><a class="dropdown-item" href="#phone">phone</a></li>
+                <li><a class="dropdown-item" href="#message">message</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- 首屏輪播 -->
+    <section
+      id="top"
+      class="carousel slide carousel-fade my-carousel"
+      data-bs-ride="carousel"
+      data-bs-interval="3000"
+    >
+      <div class="carousel-indicators">
+        <button
+          type="button"
+          data-bs-target="#top"
+          data-bs-slide-to="0"
+          class="active"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#top"
+          data-bs-slide-to="1"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#top"
+          data-bs-slide-to="2"
+        ></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item vh-100 active">
+          <img
+            src="./media/game-photo1.jpg"
+            class="d-block w-100 h-100 object-fit-cover"
+          />
+          <div class="carousel-caption d-none d-md-block">
+            <h3>First slide</h3>
+          </div>
+        </div>
+        <div class="carousel-item vh-100">
+          <img
+            src="./media/game-photo2.jpg"
+            class="d-block w-100 h-100 object-fit-cover"
+          />
+          <div class="carousel-caption d-none d-md-block">
+            <h3>Second slide</h3>
+          </div>
+        </div>
+        <div class="carousel-item vh-100">
+          <img
+            src="./media/game-photo3.jpg"
+            class="d-block w-100 h-100 object-fit-cover"
+          />
+          <div class="carousel-caption d-none d-md-block">
+            <h3>Third slide</h3>
+          </div>
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev w-auto"
+        type="button"
+        data-bs-target="#top"
+        data-bs-slide="prev"
+      >
+        <i class="fa-solid fa-caret-left fa-3x"></i>
+      </button>
+      <button
+        class="carousel-control-next w-auto"
+        type="button"
+        data-bs-target="#top"
+        data-bs-slide="next"
+      >
+        <i class="fa-solid fa-caret-right fa-3x"></i>
+      </button>
+    </section>
+    <!--遊戲區  -->
+    <section id="playGame" class="p-5">
+      <h2 class="mb-3">playGame</h2>
+      <div class="container play-Game">
+        <div class="row row-cols-1 row-cols-md-3 gy-3">
+          <div class="col d-flex justify-content-center">
+            <a href="./catch/index.html" class="d-block">
+              <img
+                class="game-img img-fluid w-50 game-bg"
+                src="./media/down.png"
+                data-aos="flip-left"
+                data-aos-delay="500"
+              />
+            </a>
+          </div>
+          <div class="col d-flex justify-content-center">
+            <a href="./catch/index.html" class="d-block">
+              <img
+                class="game-img img-fluid w-50"
+                src="./media/up.png"
+                data-aos="flip-left"
+                data-aos-delay="1000"
+              />
+            </a>
+          </div>
+          <div class="col d-flex justify-content-center">
+            <a href="./catch/index.html" class="d-block">
+              <img
+                class="game-img img-fluid w-50"
+                src="./media/catch.png"
+                data-aos="flip-left"
+                data-aos-delay="1500"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--各資料區(同頁不同段落)-->
+    <section id="etToday" class="news-section p-5">
+      <h2 class="mb-3">etToday</h2>
+      <div id="etTodayList" class="row g-0"></div>
+    </section>
+    <!--  -->
+    <section id="gameApps" class="news-section p-5">
+      <h2 class="mb-3">gameApps</h2>
+      <div id="gameAppsList" class="row g-0"></div>
+    </section>
+    <!--  -->
+    <section id="setn" class="news-section p-5">
+      <h2 class="mb-3">setn</h2>
+      <div id="setnList" class="row g-0"></div>
+    </section>
+    <section id="contact" class="p-5">
+      <div id="email" class="">
+        <h2>email</h2>
+        <p>xxx@gmail.com</p>
+      </div>
+      <!--  -->
+      <div id="phone" class="">
+        <h2>phone</h2>
+        <p>09xx-xxx-xxx</p>
+      </div>
+      <div id="message" class="">
+        <h2>leave message</h2>
+        <div class="container message-bg">
+          <div id="ff-compose"></div>
+          <script
+            async
+            defer
+            src="https://formfacade.com/include/105573775244840680550/form/1FAIpQLSeUJ7cHWp4I6jFZg7w2aeel9eWkUZftdwOm0Wa6fT-R2LY7dA/bootstrap.js?div=ff-compose"
+          ></script>
+        </div>
+      </div>
+    </section>
+    <!--  -->
+    <footer class="site-footer p-5 text-center">
+      <small>
+        <p>
+          本網站僅供學習與作品展示用途，所有圖文版權歸原始來源所有（GameApps、SETN、EtToday、Unsplash、pixabay、chatgpt協作圖片...、如有侵權請來信告知，將立即處理。
+        </p>
+        <p>
+          This site is for demo purposes only. All rights of images and texts
+          belong to their respective owners.
+        </p>
+      </small>
+    </footer>
+    <!-- Bootstrap Modal區(放在/body前) -->
+    <div class="modal fade" id="readerModal" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content bg-dark text-light">
+          <div class="modal-header border-0">
+            <h5 class="modal-title" id="readerTitle">（文章標題）</h5>
+            <button
+              type="button"
+              class="btn-close btn-close-white"
+              data-bs-dismiss="modal"
+              aria-label="關閉"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <div class="d-flex gap-3 align-items-start flex-column flex-md-row">
+              <img
+                id="readerImage"
+                src="#"
+                alt=""
+                class="rounded reader-image"
+              />
+              <div class="flex-grow-1">
+                <div class="text-secondary small mb-2" id="readerDate">
+                  （時間）
+                </div>
+                <div id="readerSummary" class="lh-lg reader-summary">
+                  （摘要文字 / 前幾段內容）
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="modal-footer justify-content-between border-0">
+            <div class="small text-secondary" id="readerSource">
+              來源：<span>（來源網站）</span>
+            </div>
+            <div class="d-flex gap-2">
+              <a
+                id="readerFullBtn"
+                href="#"
+                target="_blank"
+                rel="noopener"
+                class="btn btn-outline-info reader-btn"
+              >
+                閱讀全文（前往原站）
+              </a>
+              <button
+                type="button"
+                class="btn btn-outline-light reader-btn"
+                data-bs-dismiss="modal"
+              >
+                關閉
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <script>
+      AOS.init();
+    </script>
+    <script defer src="./js/main.js"></script>
+    <!-- <script defer src="./js/state.js"></script> -->
+  </body>
+</html>
+<!------------------------------------------------------------->
+<!-------------------------  my note  ------------------------->
+<!-- 
+外部檔案區:
+-->
+<!-- 
+導覽列-Navbar區:
+-->
+<!-- 
+首屏輪播區:
+-->
+<!-- 
+各資料區(同頁不同段落):
+-->
+<!-- 
+footer區
+-->
+<!-------------------------------------------------------------->
+<!----------------------  my note flow  ------------------------>
+<!-- 
+//外部檔案區:
+到這下載所需要的圖片https://gauger.io/fonticon:
+  <link rel="icon" href="./media/favicon.ico" type="image/x-icon" />。
+-->
+<!-- 
+//外部檔案區:
+下載bootstrap的css和js檔案，放在plugins資料夾裡:
+  <link rel="stylesheet" href="./plugins/bootstrap.min.css" />,
+  <script defer src="./plugins/bootstrap.bundle.min.js"></script>。
+-->
+<!--
+//導覽列-Navbar區: 
+link網址貼程式碼navbar並整理
+https://getbootstrap.com/docs/5.3/components/navbar/
+-->
+<!-- 
+//導覽列-Navbar區:
+body:
+啟動Bootstrap,當你滾動時判斷目前在哪個section:
+  <body data-bs-spy="scroll" data-bs-target="#Menu">。
+-->
+<!-- 
+//導覽列-Navbar區:
+現在螢幕>lg(大螢幕)就展開顯示=(navbar-expand-lg)
+  <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">。
+ -->
+<!--
+//外部檔案區:
+font-awesome:
+  <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+  />。
+ -->
+<!--
+//導覽列-Navbar區:
+LOGO區域,用FontAwesome疊icon(圖案):
+<div class="container">
+  <a class="navbar-brand d-flex align-items-center" href="#">
+    <span class="fa-stack">
+      <i class="fa-solid fa-circle fa-stack-2x text-light"></i>
+      <i class="fa-solid fa-star fa-stack-1x text-dark"></i>
+    </span>
+    <span>gameNews</span>
+  </a>
+</div>。
+ -->
+<!-- 
+//導覽列-Navbar區:
+漢堡按鈕(手機畫面):
+導航列按鈕=(navbar-toggler)
+收合/展開=(collapse)
+指定"要控制的區塊"=data-bs-target="#Menu"
+  <button
+    class="navbar-toggler"
+    type="button"
+    data-bs-toggle="collapse"
+    data-bs-target="#Menu"
+  >
+    <span class="navbar-toggler-icon"></span>
+  </button>。
+ -->
+<!--
+//導覽列-Navbar區:
+按下漢堡按鈕Menu本體出現class=("...show"),若未按下不出現show,class=("..."):
+  <div id="Menu" class="collapse navbar-collapse"></div>。
+-->
+<!--
+//導覽列-Navbar區:
+導覽連結:
+margin-start(左邊距),auto 自動,讓它往右靠齊=(ms-auto)
+  <div class="navbar-nav ms-auto gap-0 gap-lg-3 ps-5 ps-lg-0">
+    <a class="nav-link" href="#top">top</a>
+    <a class="nav-link" href="#etToday">etToday</a>
+    <a class="nav-link" href="#gameApps">gameApps</a>
+    <a class="nav-link" href="#setn">setn</a>
+  </div>。
+-->
+<!--
+//導覽列-Navbar區:
+導覽連結裡面的分頁導覽dropdown:
+    <div class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle"
+        href="#"
+        data-bs-toggle="dropdown"
+      >contact
+      </a>      
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="#email">email</a></li>
+        <li><a class="dropdown-item" href="#phone">phone</a></li>
+        <li><a class="dropdown-item" href="#message">message</a></li>
+      </ul>
+    </div>。
+-->
+<!-- 
+//首屏輪播區:
+link網址貼程式碼carousel並整理
+ https://getbootstrap.com/docs/5.3/components/carousel/
+-->
+<!--
+//首屏輪播區:
+  啟用Bootstrap輪播=(carousel)
+  滑動效果=(slide)
+  改成"淡入淡出"效果=(carousel-fade)
+  自動播放=(data-bs-ride="carousel")
+  每3秒換一張(3000ms)=(data-bs-interval="3000")
+<section
+  id="top"
+  class="carousel slide carousel-fade"
+  data-bs-ride="carousel"
+  data-bs-interval="3000"
+>
+</section>。
+-->
+<!--
+//首屏輪播區:
+輪播下方的指示點(底下那三顆),用來呈現"第幾張"的小圓點:
+指示用呈現"第幾張"的小圓點=(<div class="carousel-indicators">)
+控制哪一個 carousel=(data-bs-target="#top")
+跳到第0張（第一張)=(data-bs-slide-to="0")
+預設顯示的頁面=(class="active")
+<div class="carousel-indicators">
+  <button
+    type="button"
+    data-bs-target="#top"
+    data-bs-slide-to="0"
+    class="active"
+  ></button>
+</div>。
+-->
+<!--
+//首屏輪播區:
+輪播內容"核心":
+輪播內容"核心",所有圖片的容器=(<div class="carousel-inner">)
+每一頁=carousel-item 
+{高度=100%,viewport(全螢幕)}=vh-100 
+預設顯示這張=active
+圖片填滿但不變形(裁切)=object-fit-cover
+Bootstrap提供的文字層,讓文字"浮在圖片上"=carousel-caption
+小螢幕隱藏，大螢幕才顯示=d-none d-md-block
+<div class="carousel-inner">
+  <div class="carousel-item vh-100 active">
+    <img
+      src="./media/game-photo1.jpg"
+      class="d-block w-100 h-100 object-fit-cover"
+    />
+    <div class="carousel-caption d-none d-md-block">
+      <h3>First slide</h3>
+    </div>
+  </div>
+<div>。
+-->
+<!--
+//首屏輪播區:
+左右控制按鈕:
+Bootstrap預設樣式=carousel-control-prev
+不讓按鈕撐滿整個寬度=w-auto
+往前一張=(data-bs-slide="prev")
+用Font Awesome的圖示,左箭頭=fa-caret-left,放大3倍=fa-3x 
+<button
+  class="carousel-control-prev w-auto"
+  type="button"
+  data-bs-target="#top"
+  data-bs-slide="prev"
+>
+  <i class="fa-solid fa-caret-left fa-3x"></i>
+</button>。
+-->
+<!--
+//外部檔案區:
+真正載入字體"核心":
+*不能link的網站,只作用為提前連線(優化效能)=preconnect 
+提供CSS=..//..googleapis
+提供字體檔(.woff2)=..//..gstatic
+真正載入字體"核心"字體,Noto Sans TC(繁體中文,粗細：100~900-全部)={family=Noto+Sans}+TC:wght@100..900
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link
+  rel="stylesheet"
+  href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+/>。
+-->
+<!--
+//*外部檔案區: 
+*css檔案必須放在最後,才能覆蓋前面引入的Bootstrap樣式,後面優先:
+<link rel="stylesheet" href="./plugins/style.css" />。
+-->
+<!-- 
+//footer區
+參考網站需寫入這裡...。
+-->
+<!-- 
+//各資料區:
+因為要寫css所以先在html中建立假的內容，等css寫好後再換成真正的內容:
+"預設"1排1個=(col-12)
+"自訂"1排5個(col-xl-5col)
+不同視窗不同格數 class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-5col"
+<div class="col-12 col-sm-6 col-md-4 col-lg-3 col-xl-5col">
+  <a class="atest" href="./media/demo_0.jpg">
+    <div class="card h-100">
+      <img class="card-img-top" src="./media/demo_0.jpg" alt="" />
+      <div class="card-body">
+        <div class="card-title small">my demo-0-test</div>
+      </div>
+    </div>
+  </a>
+</div>
+若自動爬蟲程式可以自行將資料貼入html,就可以刪除假資料。
+-->
+<!--
+外部檔案區:
+到這網址貼程式碼=https://getbootstrap.com/docs/5.3/components/modal/
+-->
+<!--Bootstrap Modal區:
+必須放在/body前
+id=readerModal 要因為js要抓,原用Button trigger modal抓取的code可以刪掉,與整理code   
+-->
+<!-- 
+Bootstrap Modal區:
+最外層Modal容器(核心控制層)
+這行是"Modal 本體"=modal
+淡入淡出動畫=fade
+id="readerModal"→給JS用在new bootstrap.Modal(...)
+tabindex="-1"→讓modal可以被focus(鍵盤控制用)=(如下:)
+<div class="modal fade" id="readerModal" tabindex="-1" aria-hidden="true">
+-->
+<!--
+Modal尺寸與滾動控制
+{一個「超寬 + 可滾動」的閱讀視窗}
+必備容器(結構用)=(modal-dialog)
+超大尺寸(適合新聞閱讀)=(modal-xl)
+內容過長時(只滾動內容區，不是整個頁面)=(modal-dialog-scrollable)=(如下:)
+<div class="modal-dialog modal-xl modal-dialog-scrollable">
+-->
+<!--
+這一層 ="真正看到的畫面"
+包住整個UI=modal-content
+若無modal-content將導致hearder,body,footer失去作用=(如下:)
+<div class="modal-content bg-dark text-light">
+-->
+<!--
+標題區=Header
+移除底線=(border-0)=(如下:)
+<div class="modal-header border-0">
+-->
+<!--
+readerTitle-JS將在這裡填資料=(如下:)
+document.getElementById("readerTitle").textContent = title;
+<h5 class="modal-title" id="readerTitle">（文章標題</h5>
+-->
+<!--
+Bootstrap關閉按鈕=btn-close
+白色版(因為是dark背景)=btn-close-white 
+點擊自動關閉modal(不用JS)=data-bs-dismiss="modal" 
+<button
+  type="button"
+  class="btn-close btn-close-white"
+  data-bs-dismiss="modal"
+  aria-label="關閉"
+></button>
+-->
+<!-- 
+放主要內容=(如下:)
+<div class="modal-body">
+全部為直排(意思手機直排)flex-column
+md以上設為橫牌(意思桌機橫排)flex-md-row=(如下:)
+<div class="d-flex gap-3 align-items-start flex-column flex-md-row">
+-->
+<!--
+JS動態換圖=(id="readerImage")=(如下:)
+const imgEl = document.getElementById("readerImage");
+if (image) {
+  imgEl.src = image;
+  imgEl.style.display = "block";
+} else {
+  imgEl.removeAttribute("src");
+  imgEl.style.display = "none";
+}
+-->
+<!--  
+撐滿剩下空間(讓圖片旁邊文字自動延伸)=(如下:)
+<div class="flex-grow-1">
+date填入資料readerDate輸出至畫面
+document.getElementById("readerDate").textContent = date;
+-->
+<!--
+加入dayjs外部檔案
+<script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/localeData.js"></script>
+-->
+<!--
+摘要文字/前幾段內容=readerSummary
+行距變大(兩倍行高)=(lh-lg)=(如下:)
+.lh-lg {
+  line-height: 2;
+}
+-->
+<!-- 
+<div class="modal-footer>
+無上邊線=border-0 
+字變小=small
+-->
+<!-- 
+灰色=text-secondary 
+JS操作點=(id="readerSource") =(如下:)
+document.getElementById("readerSource").innerHTML ='來源：<span>' + source + '</span>';
+-->
+<!-- 
+d-flex=display flex,預設為row橫向
+-->
+<!-- 
+<a>→因為是「跳轉」
+id→JS控制連結
+開新分頁=(target="_blank") 
+安全(防釣魚)=(rel="noopener") 
+document.getElementById("readerFullBtn").href = link;
+-->
+<!-- 
+data-bs-dismiss="modal"
+Bootstrap自動點擊→關閉modal
+-->
+<!--
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->

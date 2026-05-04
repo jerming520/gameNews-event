@@ -1,0 +1,500 @@
+/* =====Global區===== */
+body {
+  font-family: "Roboto", "Noto Sans TC", sans-serif;
+  background-color: #1010125e;
+  color: #eee;
+}
+/* =====Section spacing區===== */
+section:not(#top) {
+  padding: 50px 0;
+}
+/* =====幻燈片左右箭頭區===== */
+.my-carousel button>i {
+  font-size: 3rem;
+  background-color: #0005;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+}
+/* =====幻燈片小白球指示物區===== */
+.my-carousel .carousel-indicators {
+  gap: 15px;
+}
+/* =====幻燈片小白球指示物區===== */
+.my-carousel .carousel-indicators>button {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+/* =====導覽列區===== */
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}
+/* =====自訂導覽列下拉選單區===== */
+.navbar .dropdown-menu {
+  --bs-dropdown-link-hover-bg: #a8a8a85e;
+  --bs-dropdown-link-active-bg: #a8a8a85e;
+  --bs-dropdown-link-active-color: #fff;
+  --bs-dropdown-bg: #a8a8a85e;
+}
+/* =====自訂區1排5個圖片===== */
+@media (min-width: 1200px) {
+  .col-xl-5col {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}
+/* =====card 卡片區===== */
+.news-section .card {
+  position: relative;
+  font-size: 1.5rem;
+  border: none;
+  overflow: hidden;
+  background: #20252c;
+  opacity: 0.85;
+  height: auto;
+  width: 100%;
+  will-change: transform, box-shadow;
+  transform: translateY(0) scale(0.80);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+/* =====卡片 hover區===== */
+.news-section .card:hover {
+  transform: translateY(-5px) scale(0.83);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
+}
+/* =====img區===== */
+.news-section .card-img-top {
+  transition: transform 0.35s ease, filter 0.35s ease;
+  filter: grayscale(50%) sepia(80%) brightness(0.7);
+  aspect-ratio: 1/1.1;
+  /* object-fit: cover; */
+  transform: scale(1);
+}
+/*=====img hover區=====*/
+.news-section .card:hover .card-img-top {
+  transform: scale(1.1);
+  filter: brightness(1.1);
+}
+/*=====暗色遮罩區=====*/
+.news-section .card::after {
+  background-color: #0005;
+  backdrop-filter: blur(1.5px);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  transition: top 0.3s;
+  content: "";
+  inset: 0;
+  opacity: 1;
+}
+/*=====暗色遮罩 hover區=====*/
+.news-section .card:hover::after {
+  top: -100%;
+  opacity: 0.8;
+}
+/*=====card title區=====*/
+.news-section .card .card-title {
+  color: #eee;
+  transform: translateY(5px);
+  margin: 0;
+  transition: transform 0.25s ease, color 0.25s ease, opacity 0.25s ease;
+  /* 以下固定文字 */
+  display: -webkit-box;
+  /* 限2行 */
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+/*=====card title hover區=====*/
+.news-section .card:hover .card-title {
+  transform: translateY(3px);
+}
+/*.Bootstrap Modal區*/
+.reader-summary p {
+  margin: 0.6rem 0;
+}
+/*Bootstrap Modal區*/
+.reader-btn {
+  color: white;
+  background-color: #9ba2a3;
+}
+/*Bootstrap Modal*/
+.reader-btn:hover {
+  color: #375350;
+  background-color: #0dcaf0;
+}
+/*Bootstrap Modal*/
+.reader-image {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: none;
+}
+.play-Game {
+  background: url(../media/bg1.jpg) center center / cover no-repeat fixed rgb(0 0 0);
+  background-attachment: fixed;
+  background-blend-mode: lighten;
+  min-height: 500px;
+}
+/*  */
+.message-bg {
+  background: url(../media/bg5.jpg) #d9d2d2 no-repeat center / cover;
+  background-attachment: fixed;
+  background-blend-mode: darken;
+  min-height: 750px;
+}
+/*  */
+#contact .ff-form {
+  backdrop-filter: blur(10px);
+  background: rgb(255, 193, 7, 0.3);
+  border-radius: 5px;
+  min-height: 572px;
+}
+/*  */
+#contact #ff-title-root {
+  display: none;
+}
+/*  */
+#contact .ff-secfields {
+  height: 410px;
+}
+/*  */
+body .news-section {
+  background: url(../media/bg3.jpg) #d9d2d2 no-repeat center / cover;
+  background-attachment: fixed;
+  background-blend-mode: darken;
+  min-height: 750px;
+}
+/* =====================================*/
+/* ===============my note===============*/
+/* =====Global區===== 
+{(調字體),(整個網站深灰底"調色,調透明度"),(字體白色)}
+*/
+/* =====Section spacing區=====
+{除了#top以外的section都加上下間距}
+*/
+/* =====幻燈片區=====
+{左右箭頭的按鈕設定}
+{下方換頁呈現的小圓形白色圖案間格}
+{下方換頁呈現的小圓形白色圖案大小}
+*/
+/* =====導覽列區===== 
+{navbar設定}
+{因為色跑掉需要將下拉式選單的這些值做更改}
+*/
+/* =====自訂區======
+{因bootstrap未提供1排5個圖片,所以自己寫,搭配在不同視窗時每一排呈現的圖片數}
+*/
+/* =====卡片與卡片hover區===== 
+{卡片hover時往上移動,放大,呈現陰影a位置}
+{卡片hover時往上移動,放大,呈現陰影b位置}
+{card與card hover需互相搭配hover時卡片往上移動,放大,呈現陰影}
+*/
+/* =====img與img hover區===== 
+{img 統一比例,鏡頭放大效果a位置}
+{img 統一比例,鏡頭放大效果b位置}
+{img與img hover需互相搭配,hover時放大,改亮度}
+*/
+/*=====暗色遮罩區與暗色遮罩hover區
+{暗色遮罩由下往上效果呈現a位置}
+{暗色遮罩由下往上效果呈現b位置}
+{遮罩區與遮罩hover區互相搭配當hover時暗色遮罩往上,透明度更改}
+====*/
+/*=====card title區=====
+{card title 與card title hover互相搭配當hover時文字往上}
+*/
+/*=====Bootstrap Modal區=====
+{外觀,邊界設定}
+{封面圖(沒有就隱藏)}
+{}
+*/
+/*=====其他區=====
+{Link網址:到Google Fonts抓字體的}
+*/
+/*=====================================*/
+/*=============my note flow============*/
+/*
+其他區:
+{Link網址:到Google Fonts抓字體的}=(如下:)
+https://fonts.google.com/noto/specimen/Noto+Sans+TC?preview.script=Hant。
+*/
+/* 
+//Global區:
+{UI主題=body}
+{(調字體),(整個網站深灰底"調色,調透明度"),(字體白色)}=(如下:)
+font-family,background-color,color:#eee。
+字體設定:先寫英文"Roboto", 再寫中文"Noto Sans TC"=(如下:)
+font-family: "Roboto", "Noto Sans TC", sans-serif。
+*/
+/*
+//Section spacing區:
+{除了#top以外的section都加上下間距}
+除了#top以外的section都加上下間距=(如下:)
+section:not(#top) {
+  padding: 100px 0;
+}。
+*/
+/* 
+幻燈片區左右箭頭:
+{左右箭頭的按鈕設定}
+白圖垂直置中技巧=(line-height)。
+白圖縮放=(font-size)。
+左右箭頭的按鈕設定,讓icon看起來像按鈕=(如下:)
+.my-carousel button>i {
+  font-size: 3rem;
+  background-color: #0005;
+  width: 55px;
+  height: 55px;
+  line-height: 55px;
+}。
+*/
+/* 
+//幻燈片區小白球指示物:
+{下方換頁呈現的小圓形白色圖案間格}
+(gap設定在父容器,不設定在>button內=gap: 15px:)=(如下:)
+.my-carousel .carousel-indicators {
+  gap: 15px;
+}。
+*/
+/*
+//幻燈片區小白球指示物:
+{下方換頁呈現的小圓形白色圖案大小}
+圓形圖案=border-radius: 50%:=(如下:)
+.my-carousel .carousel-indicators>button {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}。
+*/
+/* 
+//導覽列區:
+{navbar設定}
+{讓navbar(元素)具有"黏住效果"}=(position: sticky)。
+畫面最上方=(top: 0)。
+控制"圖層高度"=(z-index: 1000)=(如下:)
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+}。
+*/
+/*
+//導覽列區:
+{navbar下拉選單設定}
+{因為色跑掉需要將下拉式選單的這些值做更改}。
+下拉選單滑鼠滑動時=(hover-bg)。
+下拉選單點選時背景=(active-bg)。
+下拉選單點選時文字=(active-bg)。
+下拉選單背景顏色=(bg)。
+navbar下拉選單設定=(如下:)
+  .dropdown-menu {
+    --bs-dropdown-link-hover-bg: #a8a8a85e;
+    --bs-dropdown-link-active-bg: #a8a8a85e;
+    --bs-dropdown-link-active-color: #fff;
+    --bs-dropdown-bg:#a8a8a85e
+  }。
+*/
+/*
+自訂1排5個圖片:
+{因bootstrap未提供1排5個圖片,所以自己寫,搭配在不同視窗時每一排呈現的圖片數}
+不放大=(flex-grow: 0)。
+不壓縮=(flex-shrink: 0)。
+基礎寬度"20%=(flex-basis: 20%)
+@media (min-width: 1200px) {
+  .col-xl-5col {
+    flex: 0 0 20%;
+    max-width: 20%;
+  }
+}。
+*/
+/*
+卡片區: 
+{卡片hover時往上移動,放大,呈現陰影a位置}
+暗色遮罩的父層位置參考=(position: relative)。
+動畫效果"控制怎麼動"=(transition)。
+提升效能"控制怎麼更順"=(will-change)。
+位移/縮放/旋轉=(transform)。
+陰影變化=(box-shadow) 。
+動畫時間=(0.25s)。
+緩動(先慢→快→慢)=(ease) 。
+*/
+/* 
+卡片hover區:
+{卡片hover時往上移動,放大,呈現陰影b位置}
+左右不偏移=0 。
+陰影往下(表示卡片浮起來)=10px。
+陰影柔化=10px。
+半透明黑色(35%)=rgba(0, 0, 0, 0.35)。
+box-shadow: X Y 模糊 顏色=(如下:)
+box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);。
+
+*/
+/* 
+卡片與卡片hover區:
+{card與card hover需互相搭配hover時卡片往上移動,放大,呈現陰影}
+.news-section .card {
+transform: translateY(0) scale(1);
+transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+.news-section .card:hover {
+  transform: translateY(-5px) scale(1.01);
+  box-shadow: 0 10px 10px rgba(0, 0, 0, 0.35);
+}。
+*/
+/* 
+img區:
+{img 統一比例,鏡頭放大效果a位置}
+動畫引擎無這行直接跳，不會有動畫=(transition)。
+"縮放"動畫=(transform)。
+"濾鏡,亮度"動畫=(filter)。
+時間=(0.35s)。
+"緩"先快後慢(自然感)=(ease)。
+灰階=(grayscale(50%)) 。
+懷舊風格=sepia(80%))。
+亮度=(brightness(0.7))。
+*固定長寬圖片比例=(aspect-ratio: 4 / 3;)。
+圖片會"填滿整個框"，必要時裁切=object-fit: cover。
+img 統一比例,鏡頭放大效果=(如下:)
+transition: transform 0.35s ease, filter 0.35s ease;
+filter: grayscale(50%) sepia(80%) brightness(0.7);
+aspect-ratio: 4 / 3;
+object-fit: cover;。
+*/
+/* 
+img hover區:
+{img 統一比例,鏡頭放大效果b位置}
+*:hover必須設定在card,不是設定在img,文字,或其他地方...=(.card:hover)。
+*意思當.card被hover的時候 → 讓img更改以下(如下:)
+.news-section .card:hover .card-img-top {
+transform: scale(1.1);
+filter: brightness(1.1);
+}。
+*/
+/* 
+img與img hover區:
+{img與img hover需互相搭配,hover時放大,改亮度}
+.news-section .card-img-top {
+transition: transform 0.35s ease, filter 0.35s ease;
+}
+.news-section .card:hover .card-img-top {
+transform: scale(1.1);
+filter: brightness(1.1);
+}。
+*/
+/*
+暗色遮罩區:
+{暗色遮罩由下往上效果呈現a位置}
+::after=(額外加的一層暗色遮罩)。
+.news-section裡面的.card的"偽元素after"=(.news-section .card::after)。 
+毛玻璃,模糊=(backdrop-filter: blur(1.5px))。
+作用為浮起=(position: absolute)=,找最近的父層=(position: relative),兩個須一起搭配用。
+初始位置：貼齊上方=(top: 0%)。
+top 改變時 → 用 0.3 秒滑動=(transition: top 0.3s)。
+沒這行"" →::after不會出現=(content: "")。
+(top: 0;right: 0;bottom: 0;left: 0;)=(inset: 0)。
+.news-section .card::after {
+  background-color: #0005;
+  backdrop-filter: blur(1.5px);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0%;
+  transition: top 0.3s;
+  content: "";
+  inset: 0;
+  opacity: 1;
+}。
+*/
+/*
+暗色遮罩hover區:
+{暗色遮罩由下往上效果呈現b位置}
+*當.card hover時操作它的 ::after遮罩。
+*:hover必須寫在card=(.card:hover::after)。
+原本整張card位置(top:0%)現在改成(top:-100%)遮罩往上滑走。
+.news-section .card:hover::after {
+  top: -100%;
+  opacity: 0.8;。
+*/
+/*
+暗色遮罩區與暗色遮罩hover區:
+{遮罩區與遮罩hover區互相搭配當hover時暗色遮罩往上,透明度更改}
+.news-section .card::after {
+  top: 0%;
+  transition: top 0.3s;
+}
+  .news-section .card:hover::after {
+  top: -100%;
+  opacity: 0.8;
+}。
+*/
+/* 
+card title區:
+文字顏色(偏亮灰)=(color: #eee)。
+移除預設margin(避免排版亂掉)=(margin: 0)。
+動畫設定=(transition:)。
+位移=(transform),顏色=(color),透明度=(opacity),時間(秒)=(0.25),緩動(自然)=(ease)。
+以下固定文字=(display: -webkit-box)。
+限2行=(-webkit-line-clamp: 2)。
+超出部分直接裁掉=(overflow: hidden)。
+.news-section .card .card-title{
+  color: #eee;
+  transform: translateY(5px);
+  margin: 0;
+  transition: transform 0.25s ease, color 0.25s ease, opacity 0.25s ease;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}。
+*/
+/* 
+card title hover區:
+*:hover必須寫在card=(card:hover)。
+.news-section .card:hover .card-title {}。
+*/
+/*
+card title區與card title hover區:
+{card title 與card title hover互相搭配當hover時文字往上}
+.news-section .card .card-title {
+transform: translateY(5px);
+}
+.news-section .card:hover .card-title {
+  transform: translateY(3px);
+}。
+*/
+/* 
+Bootstrap Modal區
+{外觀,邊界設定}=(如下:)
+margin,color,background。
+*/
+/* 
+Bootstrap Modal區
+{封面圖(沒有就隱藏)}=(display: none;)=(如下:)
+.reader-image {
+  max-width: 320px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: none;
+}
+*/
+/*
+
+
+
+
+
+
+
+
+
+
+
+
+
+*/
