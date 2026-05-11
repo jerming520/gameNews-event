@@ -1,5 +1,30 @@
 [
   {
+    "title": "任天堂傳奇設計師手塚卓志宣布退休　《瑪利歐》《薩爾達》黃金時代落幕",
+    "link": "https://www.gameapps.hk/news/69596/takashi-tezuka-retirement-nintendo/",
+    "image": "https://image.gameapps.hk/images/202605/10/424242.jpg"
+  },
+  {
+    "title": "Nintendo Switch 2 隱藏 YouTube 瀏覽器漏洞遭火速封鎖",
+    "link": "https://www.gameapps.hk/news/69595/switch-2-youtube-browser-workaround-blocked/",
+    "image": "https://image.gameapps.hk/images/202605/10/32131.jpg"
+  },
+  {
+    "title": "Valve 資料庫出現 Steam Machine 套裝 預約系統或已準備",
+    "link": "https://www.gameapps.hk/news/69594/steam-machine-reservation-queue-system/",
+    "image": "https://image.gameapps.hk/images/202605/11/2221.jpg"
+  },
+  {
+    "title": "ASUS 全新 ROG Strix XG129C 曝光　12.3 吋超寬副螢幕瞄準玩家桌面",
+    "link": "https://www.gameapps.hk/news/69593/asus-rog-strix-xg129c-mini-gaming-monitor/",
+    "image": "https://image.gameapps.hk/images/202605/10/222.jpg"
+  },
+  {
+    "title": "Windows 11 Xbox Mode 實測 RTX 4070 Ti 遊戲效能大升",
+    "link": "https://www.gameapps.hk/news/69592/windows-11-xbox-mode-gaming-performance/",
+    "image": "https://image.gameapps.hk/images/202605/10/321321312.jpg"
+  },
+  {
     "title": "Apple 傳聯手 Intel 生產 iPhone 晶片　擬降低對 TSMC 依賴",
     "link": "https://www.gameapps.hk/news/69591/apple-intel-chip-partnership-iphone-mac/",
     "image": "https://image.gameapps.hk/images/202605/09/cdd75be665932ecb.jpg"
@@ -23,30 +48,5 @@
     "title": "Steam《LumenTale》公開交易與進化系統　玩家直呼似《寶可夢》",
     "link": "https://www.gameapps.hk/news/69587/lumentale-memories-of-trey-steam-release/",
     "image": "https://image.gameapps.hk/images/202605/10/232.jpg"
-  },
-  {
-    "title": "PC恐怖遊戲限時免費 5月13日前可領取",
-    "link": "https://www.gameapps.hk/news/69586/dont-stop-in-red-wood-free-game/",
-    "image": "https://image.gameapps.hk/images/202605/10/32321.jpg"
-  },
-  {
-    "title": "Steam限時免費送2025開放世界遊戲5月13日前永久入庫",
-    "link": "https://www.gameapps.hk/news/69585/steam-livingbattle-free-to-keep-may-2026/",
-    "image": "https://image.gameapps.hk/images/202605/10/32131231.jpg"
-  },
-  {
-    "title": "任天堂持續加碼Switch2　明年研發費預計再創新高",
-    "link": "https://www.gameapps.hk/news/69584/nintendo-switch-2-rd-investment-2026/",
-    "image": "https://image.gameapps.hk/images/202605/09/223232.jpg"
-  },
-  {
-    "title": "OpenAI三款即時語音模型上線 支援翻譯與字幕",
-    "link": "https://www.gameapps.hk/news/69583/openai-gpt-realtime-2-audio-api/",
-    "image": "https://image.gameapps.hk/images/202605/09/22121.jpg"
-  },
-  {
-    "title": "Sony出手催谷PS5　主動通知PS4玩家升級準備迎接《GTA 6》",
-    "link": "https://www.gameapps.hk/news/69582/sony-ps4-users-upgrade-ps5-gta-6/",
-    "image": "https://image.gameapps.hk/images/202605/09/1321.jpg"
   }
 ]
