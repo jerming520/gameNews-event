@@ -1,52 +1,52 @@
 [
   {
+    "title": "DLSS 4.5 正式發表　支援 RTX 20 至 RTX 50 系列顯示卡",
+    "link": "https://www.gameapps.hk/news/69809/nvidia-dlss-4-5-ray-reconstruction/",
+    "image": "https://image.gameapps.hk/images/202606/01/23232.jpg"
+  },
+  {
+    "title": "Steam 免費遊戲再加一　冒險解謎遊戲限時開放下載",
+    "link": "https://www.gameapps.hk/news/69808/moonrise-fall-free-steam/",
+    "image": "https://image.gameapps.hk/images/202606/01/323.jpg"
+  },
+  {
+    "title": "《仙境傳說》全新RPG《RAGNAROK PROJECT》曝光　登陸PS5、Switch 2及PC",
+    "link": "https://www.gameapps.hk/news/69807/ragnarok-project/",
+    "image": "https://image.gameapps.hk/images/202606/01/44c37af4c396883b.jpg"
+  },
+  {
+    "title": "NVIDIA RTX Spark 將於 2026 秋季上市｜多款筆電率先採用",
+    "link": "https://www.gameapps.hk/news/69806/nvidia-rtx-spark/",
+    "image": "https://image.gameapps.hk/images/202606/01/112d436b645a54ee.jpg"
+  },
+  {
+    "title": "MSI 發表全新 Claw 8 手提遊戲機　首搭 Intel Arc G3 Extreme 處理器",
+    "link": "https://www.gameapps.hk/news/69805/msi-claw-8-ai-plus-cg3em-intel-arc-g3-extreme/",
+    "image": "https://image.gameapps.hk/images/202606/01/321321.jpg"
+  },
+  {
+    "title": "Epic CEO嘲諷Steam Deck加價惹反彈　玩家反批Epic問題更多",
+    "link": "https://www.gameapps.hk/news/69804/epic-ceo-steam-deck-price-controversy/",
+    "image": "https://image.gameapps.hk/images/202606/01/321312.jpg"
+  },
+  {
+    "title": "《火焰紋章：萬縷千絲》設定集疑遭洩漏　全新拳鬥士職業曝光",
+    "link": "https://www.gameapps.hk/news/69803/fire-emblem-fortunes-weave-pugilist-leak/",
+    "image": "https://image.gameapps.hk/images/202606/01/c7f42ee64af485e0.jpg"
+  },
+  {
+    "title": "Capcom談《生化危機：物語》可能性　或顛覆系列玩法改為拯救感染者",
+    "link": "https://www.gameapps.hk/news/69802/resident-evil-stories-concept/",
+    "image": "https://image.gameapps.hk/images/202606/01/21321.jpg"
+  },
+  {
+    "title": "AMD 宣布 AM5 平台延長支援至 2029 年　Zen 7 仍可沿用現有主機板",
+    "link": "https://www.gameapps.hk/news/69801/amd-am5-platform-support-extended-2029/",
+    "image": "https://image.gameapps.hk/images/202605/30/25a8f48281a7b088.jpg"
+  },
+  {
     "title": "Steam Machine 發售時間或已曝光　Valve 後台更新引發熱議",
     "link": "https://www.gameapps.hk/news/69800/steam-machine-july-release-rumor/",
     "image": "https://image.gameapps.hk/images/202605/30/87415d27f71b9b5e.jpg"
-  },
-  {
-    "title": "《鬼武者：劍之道》傳9月26日發售　Capcom或將於 State of Play 公開日期",
-    "link": "https://www.gameapps.hk/news/69799/onimusha-way-of-the-sword-release-date-rumor/",
-    "image": "https://image.gameapps.hk/images/202605/30/190b2260b765c83b.jpg"
-  },
-  {
-    "title": "PS5 Pro漲價效應延燒　網民憂PS6成史上最貴PlayStation",
-    "link": "https://www.gameapps.hk/news/69798/playstation-6-price-speculation/",
-    "image": "https://image.gameapps.hk/images/202605/30/2a5e69e72f7bbfea.jpg"
-  },
-  {
-    "title": "結合機甲改裝與即時戰鬥　《鐵翼勇士：亞斯特拉錄》即將展開Alpha測試",
-    "link": "https://www.gameapps.hk/news/69797/ironwing-valiant-record-of-astera/",
-    "image": "https://image.gameapps.hk/images/202605/31/48469175f4e1bcd9.jpg"
-  },
-  {
-    "title": "NVIDIA N1X 筆電規格曝光　Lenovo Yoga Pro 7 售價最高逼近 3萬6",
-    "link": "https://www.gameapps.hk/news/69796/nvidia-n1x-lenovo-yoga-pro-7-leak/",
-    "image": "https://image.gameapps.hk/images/202605/31/321321.jpg"
-  },
-  {
-    "title": "《決勝時刻4：現代戰爭》Steam 確認使用生成式 AI 內容再掀爭議",
-    "link": "https://www.gameapps.hk/news/69795/modern-warfare-4-generative-ai/",
-    "image": "https://image.gameapps.hk/images/202605/30/321.jpg"
-  },
-  {
-    "title": "【自學 AI 製作遊戲】我獨自整 Game 港仔用 AI打造末日世界",
-    "link": "https://www.gameapps.hk/news/69794/apocalyptic/",
-    "image": "https://image.gameapps.hk/images/202605/30/09839259a9faf89c.jpg"
-  },
-  {
-    "title": "Steam 新免費遊戲獲97%好評　玩家大讚創意十足",
-    "link": "https://www.gameapps.hk/news/69793/stitchlings-free-steam-game/",
-    "image": "https://image.gameapps.hk/images/202605/30/321321.jpg"
-  },
-  {
-    "title": "Claude Opus 4.8 單次生成《Minecraft》可玩複製版　成本僅約 10 美元",
-    "link": "https://www.gameapps.hk/news/69792/claude-opus-4-8-minecraft-clone/",
-    "image": "https://image.gameapps.hk/images/202605/30/1231.jpg"
-  },
-  {
-    "title": "《Red Dead Redemption 3》或比預期更早推出 Take-Two談AI縮短開發時間",
-    "link": "https://www.gameapps.hk/news/69791/red-dead-redemption-3-release-speculation/",
-    "image": "https://image.gameapps.hk/images/202605/30/32132.jpg"
   }
 ]
