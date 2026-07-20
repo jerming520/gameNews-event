@@ -1,5 +1,40 @@
 [
   {
+    "title": "Valve 確認 Steam Machine 不推獨佔遊戲 全力維持 PC 開放生態",
+    "link": "https://www.gameapps.hk/news/70258/steam-machine-no-exclusive-games/",
+    "image": "https://image.gameapps.hk/images/202607/20/518967f6697be3e3.jpg"
+  },
+  {
+    "title": "PS Plus 會員到 2054 年仍棄 PS5 玩家轉投 PC 引熱議",
+    "link": "https://www.gameapps.hk/news/70257/ps-plus-2054-pc-switch/",
+    "image": "https://image.gameapps.hk/images/202607/20/321.jpg"
+  },
+  {
+    "title": "Xbox 擬重拾獨佔策略 高層稱提升主機吸引力成關鍵",
+    "link": "https://www.gameapps.hk/news/70256/xbox-console-exclusives-strategy/",
+    "image": "https://image.gameapps.hk/images/202607/20/321312.jpg"
+  },
+  {
+    "title": "Steam 三款新作免費入手　心理恐怖、Roguelike 與爽快動作一次玩",
+    "link": "https://www.gameapps.hk/news/70255/steam-free-demos-the-lure-dungeon-slasher-hyperfist/",
+    "image": "https://image.gameapps.hk/images/202607/20/21.jpg"
+  },
+  {
+    "title": "任天堂告《幻獸帕魯》再失利　日本專利局駁回怪物捕捉專利",
+    "link": "https://www.gameapps.hk/news/70254/nintendo-palworld-touchscreen-patent-rejected/",
+    "image": "https://image.gameapps.hk/images/202607/19/adae9577dddb187e.jpg"
+  },
+  {
+    "title": "Sony 新專利曝光　模組化手掣配可拆式觸控螢幕",
+    "link": "https://www.gameapps.hk/news/70253/sony-modular-controller-patent-touchscreen/",
+    "image": "https://image.gameapps.hk/images/202607/19/c73cf7bc526a2a55.jpg"
+  },
+  {
+    "title": "Valve 工程師警告：記憶體價格恐持續上漲　未來幾年難望回落",
+    "link": "https://www.gameapps.hk/news/70252/valve-memory-price-warning-ai-dram-hbm/",
+    "image": "https://image.gameapps.hk/images/202607/19/1565ed930c6d36ce.jpg"
+  },
+  {
     "title": "《Dino Crisis》重製版再傳新消息　爆料稱 Capcom 早於 2022 年立項",
     "link": "https://www.gameapps.hk/news/70251/dino-crisis-remake-development-rumor/",
     "image": "https://image.gameapps.hk/images/202607/19/12.jpg"
@@ -13,40 +48,5 @@
     "title": "Valve 傳每周僅售約 1.2 萬至 1.5 萬部 Steam Machine　銷量低於預期",
     "link": "https://www.gameapps.hk/news/70249/steam-machine-weekly-sales-report/",
     "image": "https://image.gameapps.hk/images/202607/19/321312.jpg"
-  },
-  {
-    "title": "Sony《瑞奇與叮噹: Ranger Rumble》開放全球事前登錄　預計 10 月登場",
-    "link": "https://www.gameapps.hk/news/70248/ratchet-clank-ranger-rumble-pre-registration/",
-    "image": "https://image.gameapps.hk/images/202607/19/030cd262824e7b11.jpg"
-  },
-  {
-    "title": "NVIDIA 傳叫停 RTX 50 SUPER 發布　高成本 GDDR7 晶片成最大阻礙",
-    "link": "https://www.gameapps.hk/news/70247/nvidia-geforce-rtx-50-super-delay/",
-    "image": "https://image.gameapps.hk/images/202607/19/321321.jpg"
-  },
-  {
-    "title": "YouTuber 質疑 PlayStation 利用機械人帳號反擊實體光碟爭議",
-    "link": "https://www.gameapps.hk/news/70246/playstation-bot-physical-games-backlash/",
-    "image": "https://image.gameapps.hk/images/202607/19/321.jpg"
-  },
-  {
-    "title": "YouTube Premium 遭集體訴訟　用戶控 Google 收費後仍顯示廣告",
-    "link": "https://www.gameapps.hk/news/70245/youtube-premium-google-lawsuit-ads/",
-    "image": "https://image.gameapps.hk/images/202607/18/f182d778a40f2413.jpg"
-  },
-  {
-    "title": "Steam 免費心理恐怖遊戲獲玩家一致好評 可愛養狗背後竟藏心理恐怖體驗",
-    "link": "https://www.gameapps.hk/news/70244/Steam/",
-    "image": "https://image.gameapps.hk/images/202607/18/321312.jpg"
-  },
-  {
-    "title": "PlayStation 推區域定價引爭議　部分國家數位版遊戲價格將上調",
-    "link": "https://www.gameapps.hk/news/70243/playstation-store-regional-pricing/",
-    "image": "https://image.gameapps.hk/images/202607/18/312321.jpg"
-  },
-  {
-    "title": "特朗普 Truth Social 推付費 API　華爾街每月最高付 10 萬美元搶先讀貼文",
-    "link": "https://www.gameapps.hk/news/70242/truth-social-truth-api-wall-street/",
-    "image": "https://image.gameapps.hk/images/202607/18/ccdc525734c156b2.jpg"
   }
 ]
