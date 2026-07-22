@@ -1,5 +1,10 @@
 [
   {
+    "title": "消息指《地平線 3》展開封閉測試 測試者讚品質高卻欠缺新意",
+    "link": "https://www.gameapps.hk/news/70275/horizon-3-closed-testing-report/",
+    "image": "https://image.gameapps.hk/images/202607/21/e6bf9a2d2dc2f928.jpg"
+  },
+  {
     "title": "Steam「Train Fest」限時開跑 免費試玩逾 40 款鐵路遊戲 Demo",
     "link": "https://www.gameapps.hk/news/70274/steam-train-fest-free-demos/",
     "image": "https://image.gameapps.hk/images/202607/21/0f4ea1eaf611b544.jpg"
@@ -43,10 +48,5 @@
     "title": "《羊蹄山戰鬼》PC 版傳遭取消 PS5 模擬器率先成功啟動畫面",
     "link": "https://www.gameapps.hk/news/70266/ghost-of-yotei-sharpemu-ps5-emulator/",
     "image": "https://image.gameapps.hk/images/202607/21/d662587bbd2c0023.jpg"
-  },
-  {
-    "title": "Valve 工程師暗示 Steam Machine 或再加價 記憶體危機未見底",
-    "link": "https://www.gameapps.hk/news/70265/steam-machine-price-increase-dram/",
-    "image": "https://image.gameapps.hk/images/202607/21/321321.jpg"
   }
 ]
