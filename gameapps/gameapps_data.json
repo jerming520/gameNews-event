@@ -1,5 +1,45 @@
 [
   {
+    "title": "沙特收購後傳 EA 擬出售 BioWare　《Mass Effect》與《Dragon Age》IP 或易手",
+    "link": "https://www.gameapps.hk/news/70422/ea-bioware-sale-rumor/",
+    "image": "https://image.gameapps.hk/images/202608/06/21321.jpg"
+  },
+  {
+    "title": "Sony 暗示調整 PlayStation 遊戲發售規劃　部分第一方作品或延期",
+    "link": "https://www.gameapps.hk/news/70421/sony-playstation-roadmap-adjustment-2026/",
+    "image": "https://image.gameapps.hk/images/202608/05/6a28d29bc6ee5311.jpg"
+  },
+  {
+    "title": "Capcom：《生化危機：安魂曲》帶動系列銷量　成功吸引年輕玩家",
+    "link": "https://www.gameapps.hk/news/70420/resident-evil-requiem-sales-growth/",
+    "image": "https://image.gameapps.hk/images/202608/05/21321.jpg"
+  },
+  {
+    "title": "Microsoft 不再推薦 32GB RAM　Windows 11 重點轉向 8GB 記憶體優化",
+    "link": "https://www.gameapps.hk/news/70419/microsoft-windows-11-8gb-memory-optimization/",
+    "image": "https://image.gameapps.hk/images/202608/05/711c8dd172baacbe.jpg"
+  },
+  {
+    "title": "NVIDIA 傳研 GeForce 新功能　SSD 可充當額外 VRAM 提升效能",
+    "link": "https://www.gameapps.hk/news/70418/geforce-ssd-vram-rtx-io-directstorage/",
+    "image": "https://image.gameapps.hk/images/202608/06/21.jpg"
+  },
+  {
+    "title": "Xbox 或將加入白金成就系統　CEO 暗示今年內公開新功能",
+    "link": "https://www.gameapps.hk/news/70417/xbox-platinum-achievement-system/",
+    "image": "https://image.gameapps.hk/images/202608/06/321312.jpg"
+  },
+  {
+    "title": "《夜勤人》Steam 限時免費送　8 月 10 日前領取即可永久保留",
+    "link": "https://www.gameapps.hk/news/70416/moonlighter-free-game-august-2026/",
+    "image": "https://image.gameapps.hk/images/202608/05/091bdfda09595a4f.jpg"
+  },
+  {
+    "title": "PlayStation 提醒 PS5 光碟版玩家　實體遊戲將於 2028 年停止推出",
+    "link": "https://www.gameapps.hk/news/70415/playstation-ps5-physical-games-end-2028/",
+    "image": "https://image.gameapps.hk/images/202608/05/20207e6f1391437d.jpg"
+  },
+  {
     "title": "Google 宣布淘汰 Google Assistant　9 月 4 日起全面改用 Gemini",
     "link": "https://www.gameapps.hk/news/70414/google-assistant-retirement-gemini/",
     "image": "https://image.gameapps.hk/images/202608/05/fa6487220441eb4d.jpg"
@@ -8,45 +48,5 @@
     "title": "Sony 獲法院裁定退還 5.08 億美元　玩家集體訴訟要求補償 PS5 買家",
     "link": "https://www.gameapps.hk/news/70413/sony-playstation-tariff-refund-lawsuit/",
     "image": "https://image.gameapps.hk/images/202608/05/88eb2d66568694d7.jpg"
-  },
-  {
-    "title": "Sony 招募廣告團隊　PlayStation 或加強廣告變現策略",
-    "link": "https://www.gameapps.hk/news/70412/playstation-advertising-business/",
-    "image": "https://image.gameapps.hk/images/202608/05/321312.jpg"
-  },
-  {
-    "title": "AMD 財報亮眼難掩隱憂　PS5、Xbox 銷售放緩拖累遊戲業務",
-    "link": "https://www.gameapps.hk/news/70411/amd-q2-2026-gaming-revenue-down/",
-    "image": "https://image.gameapps.hk/images/202608/05/321321.jpg"
-  },
-  {
-    "title": "《Fortnite》公開《BLEACH》夜一造型　玩家憂經典戰鬥形態遭修改",
-    "link": "https://www.gameapps.hk/news/70410/fortnite-bleach-yoruichi-skin/",
-    "image": "https://image.gameapps.hk/images/202608/05/914cf9de03e382c0.jpg"
-  },
-  {
-    "title": "EA 私有化後傳啟動 7 億美元節流　大規模裁員恐將展開",
-    "link": "https://www.gameapps.hk/news/70409/ea-700-million-cost-cutting-layoffs/",
-    "image": "https://image.gameapps.hk/images/202608/05/4de8b5e177adcd5a.jpg"
-  },
-  {
-    "title": "分析師警告 Switch 2 或加至 800 美元　現時 499 美元反成超值",
-    "link": "https://www.gameapps.hk/news/70408/switch-2-price-memory-crisis-800-usd/",
-    "image": "https://image.gameapps.hk/images/202608/05/882f1aa3613d5507.jpg"
-  },
-  {
-    "title": "PS Plus 8 月免費遊戲公開　《消逝的光芒2》領銜三款作品限時領取",
-    "link": "https://www.gameapps.hk/news/70407/ps-plus-august-2026-free-games/",
-    "image": "https://image.gameapps.hk/images/202608/05/26466fed63939020.jpg"
-  },
-  {
-    "title": "《寶可夢：Pokopia》2.0 免費更新上線　首彈 DLC 同步推出",
-    "link": "https://www.gameapps.hk/news/70406/pokemon-pokopia-update-2-underwater-town-dlc/",
-    "image": "https://image.gameapps.hk/images/202608/05/3223.jpg"
-  },
-  {
-    "title": "《魔物獵人：荒野》序章免費試玩正式上線　存檔可直接繼承正式版",
-    "link": "https://www.gameapps.hk/news/70405/monster-hunter-wilds-prologue-demo/",
-    "image": "https://image.gameapps.hk/images/202608/05/32312.jpg"
   }
 ]
