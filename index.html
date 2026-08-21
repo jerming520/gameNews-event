@@ -1,0 +1,314 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>test-website</title>
+    <!--  -->
+    <link rel="icon" href="./media/favicon.ico" type="image/x-icon" />
+    <!--  -->
+    <link rel="stylesheet" href="./plugins/bootstrap.min.css" />
+    <script defer src="./plugins/bootstrap.bundle.min.js"></script>
+    <!--  -->
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.0.1/css/all.min.css"
+    />
+    <!--  -->
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@100..900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap"
+    />
+    <!--  -->
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/dayjs.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/dayjs@1/plugin/localeData.js"></script>
+    <!--  -->
+    <link rel="stylesheet" href="https://unpkg.com/aos@next/dist/aos.css" />
+    <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
+    <!--  -->
+    <link rel="stylesheet" href="./plugins/style.css" />
+  </head>
+  <body>
+    <!-- 導覽列 -->
+    <nav
+      class="navbar navbar-expand-lg navbar-dark bg-dark bg-opacity-10"
+      data-bs-theme="dark"
+    >
+      <div class="container">
+        <a class="navbar-brand d-flex align-items-center" href="#">
+          <span class="fa-stack">
+            <i class="fa-solid fa-circle fa-stack-2x text-light"></i>
+            <i class="fa-solid fa-star fa-stack-1x text-dark"></i>
+          </span>
+          <span>gameNews</span>
+        </a>
+        <button
+          class="navbar-toggler"
+          type="button"
+          data-bs-toggle="collapse"
+          data-bs-target="#Menu"
+        >
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div id="Menu" class="collapse navbar-collapse">
+          <div class="navbar-nav ms-auto gap-0 gap-lg-3 ps-5 ps-lg-0">
+            <!-- 在https://getbootstrap.com/docs/5.3/components/navbar/#nav有另一個寫法a不用li-->
+            <a class="nav-link" href="#top">top</a>
+            <a class="nav-link" href="#etToday">etToday</a>
+            <a class="nav-link" href="#gameApps">gameApps</a>
+            <a class="nav-link" href="#setn">setn</a>
+            <div class="nav-item dropdown">
+              <a
+                class="nav-link dropdown-toggle"
+                href="#email"
+                data-bs-toggle="dropdown"
+                >contact</a
+              >
+              <ul class="dropdown-menu">
+                <li><a class="dropdown-item" href="#email">email</a></li>
+                <li><a class="dropdown-item" href="#phone">phone</a></li>
+                <li><a class="dropdown-item" href="#message">message</a></li>
+              </ul>
+            </div>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <!-- 首屏輪播 -->
+    <section
+      id="top"
+      class="carousel slide carousel-fade my-carousel"
+      data-bs-ride="carousel"
+      data-bs-interval="3000"
+    >
+      <div class="carousel-indicators">
+        <button
+          type="button"
+          data-bs-target="#top"
+          data-bs-slide-to="0"
+          class="active"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#top"
+          data-bs-slide-to="1"
+        ></button>
+        <button
+          type="button"
+          data-bs-target="#top"
+          data-bs-slide-to="2"
+        ></button>
+      </div>
+      <div class="carousel-inner">
+        <div class="carousel-item vh-100 active">
+          <img
+            src="./media/game-photo1.jpg"
+            class="d-block w-100 h-100 object-fit-cover"
+          />
+          <div class="carousel-caption d-none d-md-block">
+            <h3>First slide</h3>
+          </div>
+        </div>
+        <div class="carousel-item vh-100">
+          <img
+            src="./media/game-photo2.jpg"
+            class="d-block w-100 h-100 object-fit-cover"
+          />
+          <div class="carousel-caption d-none d-md-block">
+            <h3>Second slide</h3>
+          </div>
+        </div>
+        <div class="carousel-item vh-100">
+          <img
+            src="./media/game-photo3.jpg"
+            class="d-block w-100 h-100 object-fit-cover"
+          />
+          <div class="carousel-caption d-none d-md-block">
+            <h3>Third slide</h3>
+          </div>
+        </div>
+      </div>
+      <button
+        class="carousel-control-prev w-auto"
+        type="button"
+        data-bs-target="#top"
+        data-bs-slide="prev"
+      >
+        <i class="fa-solid fa-caret-left fa-3x"></i>
+      </button>
+      <button
+        class="carousel-control-next w-auto"
+        type="button"
+        data-bs-target="#top"
+        data-bs-slide="next"
+      >
+        <i class="fa-solid fa-caret-right fa-3x"></i>
+      </button>
+    </section>
+    <!--遊戲區  -->
+    <section id="playGame" class="p-5">
+      <h2 class="mb-3">playGame</h2>
+      <div class="container play-Game">
+        <div class="row row-cols-1 row-cols-md-3 gy-3">
+          <div class="col d-flex justify-content-center">
+            <a href="./catch/index.html" class="d-block">
+              <img
+                class="game-img img-fluid w-50 game-bg"
+                src="./media/down.png"
+                data-aos="flip-left"
+                data-aos-delay="500"
+              />
+            </a>
+          </div>
+          <div class="col d-flex justify-content-center">
+            <a href="./catch/index.html" class="d-block">
+              <img
+                class="game-img img-fluid w-50"
+                src="./media/up.png"
+                data-aos="flip-left"
+                data-aos-delay="1000"
+              />
+            </a>
+          </div>
+          <div class="col d-flex justify-content-center">
+            <a href="./catch/index.html" class="d-block">
+              <img
+                class="game-img img-fluid w-50"
+                src="./media/catch.png"
+                data-aos="flip-left"
+                data-aos-delay="1500"
+              />
+            </a>
+          </div>
+        </div>
+      </div>
+    </section>
+    <!--各資料區(同頁不同段落)-->
+    <section id="etToday" class="news-section p-5">
+      <h2 class="mb-3">etToday</h2>
+      <div id="etTodayList" class="row g-0"></div>
+    </section>
+    <!--  -->
+    <section id="gameApps" class="news-section p-5">
+      <h2 class="mb-3">gameApps</h2>
+      <div id="gameAppsList" class="row g-0"></div>
+    </section>
+    <!--  -->
+    <section id="setn" class="news-section p-5">
+      <h2 class="mb-3">setn</h2>
+      <div id="setnList" class="row g-0"></div>
+    </section>
+    <section id="contact" class="p-5">
+      <div id="email" class="">
+        <h2>email</h2>
+        <p>xxx@gmail.com</p>
+      </div>
+      <!--  -->
+      <div id="phone" class="">
+        <h2>phone</h2>
+        <p>09xx-xxx-xxx</p>
+      </div>
+      <div id="message" class="">
+        <h2>leave message</h2>
+        <div class="container message-bg">
+          <div id="ff-compose"></div>
+          <script
+            async
+            defer
+            src="https://formfacade.com/include/105573775244840680550/form/1FAIpQLSeUJ7cHWp4I6jFZg7w2aeel9eWkUZftdwOm0Wa6fT-R2LY7dA/bootstrap.js?div=ff-compose"
+          ></script>
+        </div>
+      </div>
+    </section>
+    <!--  -->
+    <footer class="site-footer p-5 text-center">
+      <small>
+        <p>
+          本網站僅供學習與作品展示用途，所有圖文版權歸原始來源所有（GameApps、SETN、EtToday、Unsplash、pixabay、chatgpt協作圖片...、如有侵權請來信告知，將立即處理。
+        </p>
+        <p>
+          This site is for demo purposes only. All rights of images and texts
+          belong to their respective owners.
+        </p>
+      </small>
+    </footer>
+    <!-- Bootstrap Modal區(放在/body前) -->
+    <div class="modal fade" id="readerModal" tabindex="-1" aria-hidden="true">
+      <div class="modal-dialog modal-xl modal-dialog-scrollable">
+        <div class="modal-content bg-dark text-light">
+          <div class="modal-header border-0">
+            <h5 class="modal-title" id="readerTitle">（文章標題）</h5>
+            <button
+              type="button"
+              class="btn-close btn-close-white"
+              data-bs-dismiss="modal"
+              aria-label="關閉"
+            ></button>
+          </div>
+          <div class="modal-body">
+            <div class="d-flex gap-3 align-items-start flex-column flex-md-row">
+              <img
+                id="readerImage"
+                src="#"
+                alt=""
+                class="rounded reader-image"
+              />
+              <div class="flex-grow-1">
+                <div class="text-secondary small mb-2" id="readerDate">
+                  （時間）
+                </div>
+                <div id="readerSummary" class="lh-lg reader-summary">
+                  （摘要文字 / 前幾段內容）
+                </div>
+              </div>
+            </div>
+          </div>
+          <!--  -->
+          <div class="modal-footer justify-content-between border-0">
+            <div class="small text-secondary" id="readerSource">
+              來源：<span>（來源網站）</span>
+            </div>
+            <div class="d-flex gap-2">
+              <a
+                id="readerFullBtn"
+                href="#"
+                target="_blank"
+                rel="noopener"
+                class="btn btn-outline-info reader-btn"
+              >
+                閱讀全文（前往原站）
+              </a>
+              <button
+                type="button"
+                class="btn btn-outline-light reader-btn"
+                data-bs-dismiss="modal"
+              >
+                關閉
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!--  -->
+    <script>
+      AOS.init();
+    </script>
+    <script defer src="./js/main.js"></script>
+  </body>
+</html>
+<!-- 
+
+
+
+
+
+
+
+
+
+
+
+ -->
