@@ -1,5 +1,15 @@
 [
   {
+    "title": "Steam硬件榜大洗牌　RTX 5070登頂32GB RAM成新主流",
+    "link": "https://www.gameapps.hk/news/71098/rtx-5070-most-popular-gpu-steam-september-2026/",
+    "image": "https://image.gameapps.hk/images/202610/03/5fe5ac2071f6dc9f.jpg"
+  },
+  {
+    "title": "Windows 11本月迎重大遊戲升級　所有NVIDIA RTX顯示卡受惠",
+    "link": "https://www.gameapps.hk/news/71097/microsoft-advanced-shader-delivery-all-nvidia-rtx-gpus/",
+    "image": "https://image.gameapps.hk/images/202610/03/21321.jpg"
+  },
+  {
     "title": "《戰慄深隧》兩款重製版免費升級　主機最高支援 4K 120FPS",
     "link": "https://www.gameapps.hk/news/71096/metro-redux-free-next-gen-update-october-2026/",
     "image": "https://image.gameapps.hk/images/202610/02/4b3930d9d5a6cb44.jpg"
@@ -38,15 +48,5 @@
     "title": "NVIDIA聯手Microsoft　10月7日揭曉RTX Spark新消息",
     "link": "https://www.gameapps.hk/news/71089/nvidia-microsoft-rtx-spark-october-7-windows-event/",
     "image": "https://image.gameapps.hk/images/202610/02/d5c5fcd05ee83b2a.jpg"
-  },
-  {
-    "title": "《巫師3》重製版爆逾2000負評　AMD顯示卡災情較嚴重",
-    "link": "https://www.gameapps.hk/news/71088/the-witcher-3-remastered-steam-negative-reviews/",
-    "image": "https://image.gameapps.hk/images/202610/02/321.jpg"
-  },
-  {
-    "title": "Intel Nova Lake陣容曝光　4970K BFC配28核心大快取",
-    "link": "https://www.gameapps.hk/news/71087/intel-core-ultra-4000-nova-lake-s-4970k-bfc-leak/",
-    "image": "https://image.gameapps.hk/images/202610/02/21.jpg"
   }
 ]
