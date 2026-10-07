@@ -1,5 +1,45 @@
 [
   {
+    "title": "薩爾達風RPG《Prodigal》Steam跌至7蚊 獲92%玩家好評",
+    "link": "https://www.gameapps.hk/news/71149/prodigal-steam-discount-zelda-like-rpg/",
+    "image": "https://image.gameapps.hk/images/202610/07/321.jpg"
+  },
+  {
+    "title": "Sony新認證洩密：PS Portal傳推OLED新掌機",
+    "link": "https://www.gameapps.hk/news/71148/playstation-portal-cfi-y2000-certification/",
+    "image": "https://image.gameapps.hk/images/202610/07/8279a912832a557c.jpg"
+  },
+  {
+    "title": "Sony光碟機爭議發酵 育碧表態：繼續發行實體版光碟",
+    "link": "https://www.gameapps.hk/news/71147/ubisoft-continue-selling-physical-games/",
+    "image": "https://image.gameapps.hk/images/202610/07/21312.jpg"
+  },
+  {
+    "title": "傳Xbox奪《GTA 6》首發獨家雲端串流權 PC與流動裝置或可即玩",
+    "link": "https://www.gameapps.hk/news/71146/gta-6-xbox-cloud-streaming-exclusive/",
+    "image": "https://image.gameapps.hk/images/202610/07/21.jpg"
+  },
+  {
+    "title": "Xbox高層定調重回增長 加大主機投資並打造Helix掌機家族",
+    "link": "https://www.gameapps.hk/news/71145/xbox-helix-next-gen-hardware-growth/",
+    "image": "https://image.gameapps.hk/images/202610/07/1321.jpg"
+  },
+  {
+    "title": "Humble Choice 10 月陣容公開 8 款 Steam 遊戲可永久保留",
+    "link": "https://www.gameapps.hk/news/71144/humble-choice-october-2026-steam-games/",
+    "image": "https://image.gameapps.hk/images/202610/07/347dd35ffafd08b9.jpg"
+  },
+  {
+    "title": "《生化危機 Requiem》編劇提早洩露 2027 年 DLC 劇情與史賓沙回歸",
+    "link": "https://www.gameapps.hk/news/71143/resident-evil-requiem-dlc-writer-reveals-spencer-storyline/",
+    "image": "https://image.gameapps.hk/images/202610/07/2d40c38329155a89.jpg"
+  },
+  {
+    "title": "破發跌至529美元  華碩RX 9070 GRE跌穿官方定價",
+    "link": "https://www.gameapps.hk/news/71142/asus-radeon-rx-9070-gre-price-drop/",
+    "image": "https://image.gameapps.hk/images/202610/07/21321.jpg"
+  },
+  {
     "title": "Apple全新Mac mini 2026模擬器實測 M6晶片可達8K解像度",
     "link": "https://www.gameapps.hk/news/71141/apple-mac-mini-2026-m6-emulation-test/",
     "image": "https://image.gameapps.hk/images/202610/06/2d6b720fdbfc2074.jpg"
@@ -8,45 +48,5 @@
     "title": "《GTA V》驚現網頁瀏覽器版　毋須安裝 PC 版直接開玩",
     "link": "https://www.gameapps.hk/news/71140/gta-v-web-browser-port/",
     "image": "https://image.gameapps.hk/images/202610/06/3ce48b4fc7df7648.jpg"
-  },
-  {
-    "title": "Valve為Steam Deck驗證遊戲加入FPS分佈圖助開發者最佳化",
-    "link": "https://www.gameapps.hk/news/71139/steam-deck-fps-distribution-charts/",
-    "image": "https://image.gameapps.hk/images/202610/06/21321321.jpg"
-  },
-  {
-    "title": "《超級瑪利歐兄弟 驚奇》成功原生移植PC　毋須模擬器近60FPS",
-    "link": "https://www.gameapps.hk/news/71138/super-mario-bros-wonder-native-pc-port/",
-    "image": "https://image.gameapps.hk/images/202610/06/97bc5803db42a8f9.jpg"
-  },
-  {
-    "title": "把握最後免費機會 Steam免費遊戲將改收費 限期內領取永久暢玩",
-    "link": "https://www.gameapps.hk/news/71137/save-the-earth-steam-free-before-paid/",
-    "image": "https://image.gameapps.hk/images/202610/06/8af0a697b745576b.jpg"
-  },
-  {
-    "title": "《Minecraft》聯乘 FOSSIL 推三款腕錶 暗黑設計會發光",
-    "link": "https://www.gameapps.hk/news/71136/minecraft-fossil-limited-watch-collection/",
-    "image": "https://image.gameapps.hk/images/202610/06/0613b2562349b0b4.jpg"
-  },
-  {
-    "title": "任天堂公布 Switch 2 日本新套裝　3 款遊戲任選其一",
-    "link": "https://www.gameapps.hk/news/71135/nintendo-switch-2-choose-your-game-hardware-bundle/",
-    "image": "https://image.gameapps.hk/images/202610/06/511fdb80cb50b82f.jpg"
-  },
-  {
-    "title": "二手賣近萬五  GameStop二手PS5 Pro炒至天價",
-    "link": "https://www.gameapps.hk/news/71134/gamestop-used-ps5-pro-1499-gta-6-demand/",
-    "image": "https://image.gameapps.hk/images/202610/06/1321312.jpg"
-  },
-  {
-    "title": "《跑車浪漫旅 7》官方全新軚盤 Thrustmaster T-GT 3 正式發表 12月登場",
-    "link": "https://www.gameapps.hk/news/71133/gran-turismo-7-thrustmaster-t-gt-3-steering-wheel/",
-    "image": "https://image.gameapps.hk/images/202610/06/321321.jpg"
-  },
-  {
-    "title": "《師父》手機版 10 月 12 日推出　Steam 同步 75% OFF",
-    "link": "https://www.gameapps.hk/news/71132/sifu-mobile-ios-android-october-12-steam-75-off/",
-    "image": "https://image.gameapps.hk/images/202610/06/21321.jpg"
   }
 ]
