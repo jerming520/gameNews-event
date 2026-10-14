@@ -1,5 +1,15 @@
 [
   {
+    "title": "玩家將 PS5 改造成本地 AI 伺服器 解放 11.4GB 記憶體流暢跑 27B 大模型",
+    "link": "https://www.gameapps.hk/news/71231/ps5-jailbreak-local-ai-server-qwen3-8-27b/",
+    "image": "https://image.gameapps.hk/images/202610/14/321.jpg"
+  },
+  {
+    "title": "《薩爾達傳說 時之笛》Switch 2 重製版試玩評價出爐　多家媒體一致讚好",
+    "link": "https://www.gameapps.hk/news/71230/Switch-2/",
+    "image": "https://image.gameapps.hk/images/202610/14/1231.jpg"
+  },
+  {
     "title": "Sony 多款 PlayStation 第一方遊戲突然下架　疑因售價出錯",
     "link": "https://www.gameapps.hk/news/71229/sony-playstation-store-first-party-games-delisted-pricing-error/",
     "image": "https://image.gameapps.hk/images/202610/14/321321.jpg"
@@ -38,15 +48,5 @@
     "title": "NVIDIA 新幀生成模式曝光　RTX 40／50 系列 FPS 最高提升 35%",
     "link": "https://www.gameapps.hk/news/71222/nvidia-frame-generation-preset-c-rtx-40-50-fps-boost/",
     "image": "https://image.gameapps.hk/images/202610/11/99002279f01bfd02.jpg"
-  },
-  {
-    "title": "NVIDIA DLSS 5 大幅升級　遊戲 FPS 最多提升 40%　10 月 16 日登場",
-    "link": "https://www.gameapps.hk/news/71221/nvidia-dlss-5-update-40-percent-fps-boost-october-16/",
-    "image": "https://image.gameapps.hk/images/202610/11/32121.jpg"
-  },
-  {
-    "title": "AMD RX 9070 XT 強行運行 DLSS 5　《生化危機9》效能暴跌70%",
-    "link": "https://www.gameapps.hk/news/71220/amd-rx-9070-xt-dlss5-resident-evil-requiem-70-percent-fps-drop/",
-    "image": "https://image.gameapps.hk/images/202610/11/5e2ee0dd5dade5b0.jpg"
   }
 ]
