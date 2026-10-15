@@ -1,5 +1,35 @@
 [
   {
+    "title": "NVIDIA DLSS 4.5 登陸 GeForce NOW　RTX 5080 支援 4 倍畫格生成",
+    "link": "https://www.gameapps.hk/news/71237/nvidia-dlss-4-5-geforce-now-rtx-5080-4x-frame-generation/",
+    "image": "https://image.gameapps.hk/images/202610/15/6871f818c68e2391.jpg"
+  },
+  {
+    "title": "《高達激戰指令》正式公開　全新策略手機遊戲11月開放測試",
+    "link": "https://www.gameapps.hk/news/71236/gundam-blitz-order-mobile-game-network-test-november-2026/",
+    "image": "https://image.gameapps.hk/images/202610/15/12321.jpg"
+  },
+  {
+    "title": "NVIDIA RTX 5090 傳停產　美國大型零售商突然停止銷售",
+    "link": "https://www.gameapps.hk/news/71235/nvidia-rtx-5090-micro-center-not-carried-discontinuation-rumor/",
+    "image": "https://image.gameapps.hk/images/202610/14/9ac518c08c5a132e.jpg"
+  },
+  {
+    "title": "《薩爾達傳說》40 周年 Switch 2 特別版曝光　主機及手掣電池可自行更換",
+    "link": "https://www.gameapps.hk/news/71234/zelda-40th-anniversary-switch-2-replaceable-battery/",
+    "image": "https://image.gameapps.hk/images/202610/15/321.jpg"
+  },
+  {
+    "title": "PS5 破解玩家面臨兩難　Sony 強制更新 14.10 否則無法登入 PSN",
+    "link": "https://www.gameapps.hk/news/71233/ps5-firmware-14-10-psn-jailbreak-restriction/",
+    "image": "https://image.gameapps.hk/images/202610/15/21.jpg"
+  },
+  {
+    "title": "PS5 破解商店 Overdrive 突然消失　傳 1800 款遊戲複製版再現",
+    "link": "https://www.gameapps.hk/news/71232/ps5-overdrive-store-disappears-1800-games-clone/",
+    "image": "https://image.gameapps.hk/images/202610/15/21321.jpg"
+  },
+  {
     "title": "玩家將 PS5 改造成本地 AI 伺服器 解放 11.4GB 記憶體流暢跑 27B 大模型",
     "link": "https://www.gameapps.hk/news/71231/ps5-jailbreak-local-ai-server-qwen3-8-27b/",
     "image": "https://image.gameapps.hk/images/202610/14/321.jpg"
@@ -18,35 +48,5 @@
     "title": "《REPLACED》宣佈 12 月登陸 Android　累計玩家突破 90 萬",
     "link": "https://www.gameapps.hk/news/71228/replaced-android-release-december-8-900000-players/",
     "image": "https://image.gameapps.hk/images/202610/14/21321.jpg"
-  },
-  {
-    "title": "Sony 宣佈日本限定 PS5 黑色版　售價約 2,700 港元 11 月推出",
-    "link": "https://www.gameapps.hk/news/71227/ps5-midnight-black-japan-digital-edition-55000-yen/",
-    "image": "https://image.gameapps.hk/images/202610/14/d4e48f42ee62a596.jpg"
-  },
-  {
-    "title": "OneXPlayer Super X Pro 發表　192GB RAM 可分配 160GB 顯示記憶體",
-    "link": "https://www.gameapps.hk/news/71226/onexplayer-super-x-pro-192gb-ram-160gb-vram-amd-gorgon-halo/",
-    "image": "https://image.gameapps.hk/images/202610/14/21.jpg"
-  },
-  {
-    "title": "Steam 98% 好評 FPS 遊戲突然免費　開發者宣佈永久開放",
-    "link": "https://www.gameapps.hk/news/71225/steam-cyberfrags-69-permanently-free-98-percent-positive/",
-    "image": "https://image.gameapps.hk/images/202610/14/12.jpg"
-  },
-  {
-    "title": "小米年度「雙11」購物狂歡節  超過150款智能產品勁減  低至65折",
-    "link": "https://www.gameapps.hk/news/71224/mi-on-sale/",
-    "image": "https://image.gameapps.hk/images/202610/11/eab37dd4613e3f8f.jpg"
-  },
-  {
-    "title": "《GTA 6》PC 版發售時間曝光　傳 2027 年首季推出",
-    "link": "https://www.gameapps.hk/news/71223/gta-6-pc-release-q1-2027-rumor/",
-    "image": "https://image.gameapps.hk/images/202610/11/fa40490e7c9ec3dc.jpg"
-  },
-  {
-    "title": "NVIDIA 新幀生成模式曝光　RTX 40／50 系列 FPS 最高提升 35%",
-    "link": "https://www.gameapps.hk/news/71222/nvidia-frame-generation-preset-c-rtx-40-50-fps-boost/",
-    "image": "https://image.gameapps.hk/images/202610/11/99002279f01bfd02.jpg"
   }
 ]
