@@ -1,5 +1,10 @@
 [
   {
+    "title": "AMD FSR 4.1 提前推出　RX 6000 顯示卡終於獲支援",
+    "link": "https://www.gameapps.hk/news/71271/amd-fsr-4-1-radeon-rx-6000-ryzen-apu-support/",
+    "image": "https://image.gameapps.hk/images/202610/21/321.jpg"
+  },
+  {
     "title": "NVIDIA DLSS 全面攻入 AMD 顯示卡　RX 9070 XT 實測曝光",
     "link": "https://www.gameapps.hk/news/71270/nvidia-dlss-all-features-ported-amd-radeon-gpus/",
     "image": "https://image.gameapps.hk/images/202610/20/321312.jpg"
@@ -43,10 +48,5 @@
     "title": "Xbox 高層驚人言論：AI 助 3 人團隊一年打造 3A 級遊戲",
     "link": "https://www.gameapps.hk/news/71262/xbox-ai-3-person-aaa-game-development/",
     "image": "https://image.gameapps.hk/images/202610/20/21321.jpg"
-  },
-  {
-    "title": "《戰神》之父怒批 PlayStation 高層　直言品牌已失去靈魂",
-    "link": "https://www.gameapps.hk/news/71261/god-of-war-creator-slams-playstation-leadership/",
-    "image": "https://image.gameapps.hk/images/202610/20/ec76e195fd9073ae.jpg"
   }
 ]
