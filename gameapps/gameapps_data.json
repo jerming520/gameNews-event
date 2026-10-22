@@ -1,5 +1,10 @@
 [
   {
+    "title": "Capcom 遭黑客入侵　逾1177萬用戶資料外洩",
+    "link": "https://www.gameapps.hk/news/71289/capcom-id-data-breach-11-million-accounts/",
+    "image": "https://image.gameapps.hk/images/202610/22/ab19c599077fa7b8.jpg"
+  },
+  {
     "title": "寶可夢三大服務突發停機逾半日　網絡安全漏洞修復後終於恢復",
     "link": "https://www.gameapps.hk/news/71288/pokemon-home-sleep-champions-cybersecurity-outage-restored/",
     "image": "https://image.gameapps.hk/images/202610/22/237161f25ff48c0f.jpg"
@@ -43,10 +48,5 @@
     "title": "Micron 曝光 DDR6 記憶體效能　頻寬較 DDR5 翻倍",
     "link": "https://www.gameapps.hk/news/71280/micron-ddr6-double-ddr5-bandwidth-lpddr6-g11-nand/",
     "image": "https://image.gameapps.hk/images/202610/21/21321.jpg"
-  },
-  {
-    "title": "EA 震撼宣布關閉 BioWare《質量效應》新作開發終止",
-    "link": "https://www.gameapps.hk/news/71279/ea-closes-bioware-cancels-mass-effect-new-game/",
-    "image": "https://image.gameapps.hk/images/202610/21/80bd33462f9a3fe5.jpg"
   }
 ]
