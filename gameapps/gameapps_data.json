@@ -1,52 +1,52 @@
 [
   {
-    "title": "NVIDIA 621.01 驅動正式推出　支援《影之刃零》兼修復多款遊戲閃退",
-    "link": "https://www.gameapps.hk/news/71278/nvidia-geforce-621-01-driver-game-ready-fixes/",
-    "image": "https://image.gameapps.hk/images/202610/21/74d32a060d380a90.jpg"
+    "title": "寶可夢三大服務突發停機逾半日　網絡安全漏洞修復後終於恢復",
+    "link": "https://www.gameapps.hk/news/71288/pokemon-home-sleep-champions-cybersecurity-outage-restored/",
+    "image": "https://image.gameapps.hk/images/202610/22/237161f25ff48c0f.jpg"
   },
   {
-    "title": "Steam 又有免費遊戲 黑暗奇幻 RPG 開放領取",
-    "link": "https://www.gameapps.hk/news/71277/steam-heavy-wake-free-game-october-2026/",
-    "image": "https://image.gameapps.hk/images/202610/21/11c39f9f9a209cc6.jpg"
+    "title": "《Final Fantasy Resonance》今日推出　PC版要等到明日凌晨",
+    "link": "https://www.gameapps.hk/news/71287/final-fantasy-resonance-release-date-hong-kong-launch-times/",
+    "image": "https://image.gameapps.hk/images/202610/22/8fddd94b37ba2911.jpg"
   },
   {
-    "title": "AMD 承認 FSR 畫格生成不夠流暢　承諾推出改善更新",
-    "link": "https://www.gameapps.hk/news/71276/amd-fsr-frame-generation-frame-pacing-improvements/",
-    "image": "https://image.gameapps.hk/images/202610/21/003c1a3eb10c8ece.jpg"
+    "title": "《餓狼傳說》Switch 2 版今日推出　港版最低139元",
+    "link": "https://www.gameapps.hk/news/71286/fatal-fury-city-of-the-wolves-switch-2-launch/",
+    "image": "https://image.gameapps.hk/images/202610/22/80d22dca9cc397c9.jpg"
   },
   {
-    "title": "Xbox 驚傳千億美元收購消息　私募基金曾研究買下微軟遊戲業務",
-    "link": "https://www.gameapps.hk/news/71275/xbox-private-equity-buyout-150-billion-rumor/",
-    "image": "https://image.gameapps.hk/images/202610/21/21.jpg"
+    "title": "Steam Deck 2 疑似處理器曝光　6 核心配 24GB 記憶體",
+    "link": "https://www.gameapps.hk/news/71285/steam-deck-2-amd-gainsborough-6-core-24gb-benchmark/",
+    "image": "https://image.gameapps.hk/images/202610/22/d75c24d96090536f.jpg"
   },
   {
-    "title": "騰訊全新開放世界 RPG《人間異想計畫》公開　UE5 打造奇幻都市",
-    "link": "https://www.gameapps.hk/news/71274/ordinary-oddness-open-world-rpg-ps5-xbox-pc/",
-    "image": "https://image.gameapps.hk/images/202610/21/22d2651e6feff8e1.jpg"
+    "title": "PS3 模擬器 RPCS3 重大突破　逾 80% 遊戲已可在 PC 流暢運行",
+    "link": "https://www.gameapps.hk/news/71284/rpcs3-ps3-emulator-80-percent-games-playable-pc/",
+    "image": "https://image.gameapps.hk/images/202610/22/0440eee072edf453.jpg"
   },
   {
-    "title": "《赤血沙漠》大型DLC玩法曝光　結婚、造船、城堡經營全都有",
-    "link": "https://www.gameapps.hk/news/71273/crimson-desert-dlc-marriage-shipbuilding-housing-features/",
-    "image": "https://image.gameapps.hk/images/202610/21/ac80ea01a92c71e4.jpg"
+    "title": "《在地下城尋求邂逅》全新遊戲曝光　2027年登陸PC及手機",
+    "link": "https://www.gameapps.hk/news/71283/danmachi-frontier-zero-2027-pc-ios-android/",
+    "image": "https://image.gameapps.hk/images/202610/22/321.jpg"
   },
   {
-    "title": "Xbox 次世代主機恐賣天價　Project Helix 傳延至 2028 年",
-    "link": "https://www.gameapps.hk/news/71272/project-helix-xbox-1800-price-2028-release/",
-    "image": "https://image.gameapps.hk/images/202610/21/321321.jpg"
+    "title": "《電馭叛客 2077》2.5 大更新公開　Switch 2 終於支援 Mod",
+    "link": "https://www.gameapps.hk/news/71282/cyberpunk-2077-update-2-5-edgerunners-2-switch-2-mod-support/",
+    "image": "https://image.gameapps.hk/images/202610/22/40d23c6f826c4e55.jpg"
   },
   {
-    "title": "AMD FSR 4.1 提前推出　RX 6000 顯示卡終於獲支援",
-    "link": "https://www.gameapps.hk/news/71271/amd-fsr-4-1-radeon-rx-6000-ryzen-apu-support/",
-    "image": "https://image.gameapps.hk/images/202610/21/321.jpg"
+    "title": "PS5 14.20 韌體疑封鎖破解漏洞　駭客極速找到新突破口",
+    "link": "https://www.gameapps.hk/news/71281/ps5-firmware-14-20-jailbreak-userland-exploit/",
+    "image": "https://image.gameapps.hk/images/202610/22/21.jpg"
   },
   {
-    "title": "NVIDIA DLSS 全面攻入 AMD 顯示卡　RX 9070 XT 實測曝光",
-    "link": "https://www.gameapps.hk/news/71270/nvidia-dlss-all-features-ported-amd-radeon-gpus/",
-    "image": "https://image.gameapps.hk/images/202610/20/321312.jpg"
+    "title": "Micron 曝光 DDR6 記憶體效能　頻寬較 DDR5 翻倍",
+    "link": "https://www.gameapps.hk/news/71280/micron-ddr6-double-ddr5-bandwidth-lpddr6-g11-nand/",
+    "image": "https://image.gameapps.hk/images/202610/21/21321.jpg"
   },
   {
-    "title": "《Cyberpunk 2077》驚喜宣布 2.5 更新　免費加入動畫新內容",
-    "link": "https://www.gameapps.hk/news/71269/cyberpunk-2077-edgerunners-2-update-2-5-october-22/",
-    "image": "https://image.gameapps.hk/images/202610/20/21312.jpg"
+    "title": "EA 震撼宣布關閉 BioWare《質量效應》新作開發終止",
+    "link": "https://www.gameapps.hk/news/71279/ea-closes-bioware-cancels-mass-effect-new-game/",
+    "image": "https://image.gameapps.hk/images/202610/21/80bd33462f9a3fe5.jpg"
   }
 ]
