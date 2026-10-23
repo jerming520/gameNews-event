@@ -1,5 +1,10 @@
 [
   {
+    "title": "技嘉 WRX90 AI TOP 主機板曝光　最多支援9張顯示卡",
+    "link": "https://www.gameapps.hk/news/71299/gigabyte-wrx90-ai-top-9-gpu-2tb-memory-cooling/",
+    "image": "https://image.gameapps.hk/images/202610/23/1.jpg"
+  },
+  {
     "title": "Epic 舉辦 AI 遊戲開發大賽　最高可獲 5 萬美元資助",
     "link": "https://www.gameapps.hk/news/71298/epic-ai-megajam-2026-50000-game-development-grants/",
     "image": "https://image.gameapps.hk/images/202610/23/1321.jpg"
@@ -43,10 +48,5 @@
     "title": "Steam 限時免費玩《DeadPoly》　開放世界喪屍生存遊戲免費試玩 4 天",
     "link": "https://www.gameapps.hk/news/71290/deadpoly-steam-free-weekend-october-2026/",
     "image": "https://image.gameapps.hk/images/202610/23/21.jpg"
-  },
-  {
-    "title": "Capcom 遭黑客入侵　逾1177萬用戶資料外洩",
-    "link": "https://www.gameapps.hk/news/71289/capcom-id-data-breach-11-million-accounts/",
-    "image": "https://image.gameapps.hk/images/202610/22/ab19c599077fa7b8.jpg"
   }
 ]
