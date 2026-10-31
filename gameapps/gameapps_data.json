@@ -1,5 +1,40 @@
 [
   {
+    "title": "RTX 5080 突然從 NVIDIA 官網消失　停產傳聞再升溫",
+    "link": "https://www.gameapps.hk/news/71366/nvidia-rtx-5080-removed-official-store-discontinued-rumors/",
+    "image": "https://image.gameapps.hk/images/202610/31/321.jpg"
+  },
+  {
+    "title": "《Monster Train 2》手機版正式確認　Switch 2 同步列入推出計劃",
+    "link": "https://www.gameapps.hk/news/71365/monster-train-2-mobile-switch-2-2026/",
+    "image": "https://image.gameapps.hk/images/202610/30/89f40548f6fb9d19.jpg"
+  },
+  {
+    "title": "Steam 萬聖節限時免費送恐怖遊戲 領取後永久保留",
+    "link": "https://www.gameapps.hk/news/71364/asleep-act-1-steam-free-to-keep-halloween-2026/",
+    "image": "https://image.gameapps.hk/images/202610/30/312.jpg"
+  },
+  {
+    "title": "遊戲市場風向轉變　PC增速超越主機　Sony策略成關鍵之一",
+    "link": "https://www.gameapps.hk/news/71363/newzoo-pc-gaming-market-growth-outpaces-consoles/",
+    "image": "https://image.gameapps.hk/images/202610/30/6db64a7ba6e8c8f9.jpg"
+  },
+  {
+    "title": "GOG 限時免費送《新開始：最終剪輯版》 領取後永久保存",
+    "link": "https://www.gameapps.hk/news/71362/a-new-beginning-final-cut-gog-free-giveaway/",
+    "image": "https://image.gameapps.hk/images/202610/30/bcf4147474ffc4d6.jpg"
+  },
+  {
+    "title": "Epic 限時免費送恐怖神作　Steam 98% 好評永久入庫",
+    "link": "https://www.gameapps.hk/news/71361/sorry-were-closed-epic-games-free-october-2026/",
+    "image": "https://image.gameapps.hk/images/202610/30/21321.jpg"
+  },
+  {
+    "title": "Switch 2 獨佔《寶可夢 Pokopia》竟在 PS5 成功運行",
+    "link": "https://www.gameapps.hk/news/71360/pokemon-pokopia-switch-2-emulation-ps5-linux/",
+    "image": "https://image.gameapps.hk/images/202610/30/4a254c8cbc7341f9.jpg"
+  },
+  {
     "title": "PS5 模擬器爆安全危機　GitHub 假冒版本暗藏密碼竊取木馬",
     "link": "https://www.gameapps.hk/news/71359/fake-ps5-emulators-github-password-stealing-malware/",
     "image": "https://image.gameapps.hk/images/202610/30/586c503da214c045.jpg"
@@ -13,40 +48,5 @@
     "title": "PS6 發售時間再有新消息　分析師預測最快 2028 年登場",
     "link": "https://www.gameapps.hk/news/71357/ps6-release-date-2028-analyst-prediction/",
     "image": "https://image.gameapps.hk/images/202610/30/d553288f505172ea.jpg"
-  },
-  {
-    "title": "NVIDIA RTX 5080 24GB 傳提前登場　16GB 版本將停產",
-    "link": "https://www.gameapps.hk/news/71356/nvidia-rtx-5080-24gb-early-launch-2027/",
-    "image": "https://image.gameapps.hk/images/202610/30/d1c8bf4f5e471041.jpg"
-  },
-  {
-    "title": "RTX 5080 開始缺貨　全球顯示卡價格3個月暴漲35%",
-    "link": "https://www.gameapps.hk/news/71355/RTX-5080-3-35/",
-    "image": "https://image.gameapps.hk/images/202610/30/c129fc2a6208b74d.jpg"
-  },
-  {
-    "title": "《暗黑地牢 2》正式登陸手機　2027 年推出 iOS 與 Android 版",
-    "link": "https://www.gameapps.hk/news/71354/darkest-dungeon-2-he-is-coming-mobile-2027/",
-    "image": "https://image.gameapps.hk/images/202610/30/fde1c7b7fa873aeb.jpg"
-  },
-  {
-    "title": "Square Enix推出《Final Fantasy Resonance》Steam免費試玩版",
-    "link": "https://www.gameapps.hk/news/71353/final-fantasy-resonance-steam-demo/",
-    "image": "https://image.gameapps.hk/images/202610/30/83d821e7307214a6.jpg"
-  },
-  {
-    "title": "《羊蹄山戰鬼》2.09更新推出　新遊戲+終於迎來重要改動",
-    "link": "https://www.gameapps.hk/news/71352/ghost-of-yotei-update-2-09-new-game-plus-prologue/",
-    "image": "https://image.gameapps.hk/images/202610/30/a52a716123066e93.jpg"
-  },
-  {
-    "title": "《GTA 6》晝夜循環大改動　Rockstar嫌前作時間過得太快",
-    "link": "https://www.gameapps.hk/news/71351/gta-6-day-night-cycle-npc-police-ai-improvements/",
-    "image": "https://image.gameapps.hk/images/202610/30/2b748e32a242f390.jpg"
-  },
-  {
-    "title": "《刺客教條》系列新作曝光　Ubisoft 預告未來計劃與20周年安排",
-    "link": "https://www.gameapps.hk/news/71350/assassins-creed-2026-autumn-update-new-projects/",
-    "image": "https://image.gameapps.hk/images/202610/30/04bec760e72edeb9.jpg"
   }
 ]
