@@ -1,5 +1,25 @@
 [
   {
+    "title": "《瑪利歐賽車世界》PC 模擬器成功跑出 60 FPS　Switch 2 模擬技術突破",
+    "link": "https://www.gameapps.hk/news/71370/mario-kart-world-switch-2-emulator-pc-60fps/",
+    "image": "https://image.gameapps.hk/images/202610/31/55844a8fd3456254.jpg"
+  },
+  {
+    "title": "《影之刃零》Steam 同時在線突破77萬　創2026年單人遊戲新高",
+    "link": "https://www.gameapps.hk/news/71369/phantom-blade-zero-steam-775647-concurrent-players-2026/",
+    "image": "https://image.gameapps.hk/images/202610/31/f6327f54d7ac4000.jpg"
+  },
+  {
+    "title": "Switch 2 首個原生 PS1 模擬器曝光　成功運行三款經典遊戲",
+    "link": "https://www.gameapps.hk/news/71368/nintendo-switch-2-native-ps1-emulator/",
+    "image": "https://image.gameapps.hk/images/202610/31/0d844480acf4b5c5.jpg"
+  },
+  {
+    "title": "Epic 限時免費送兩款完整遊戲　中古角鬥士與益智問答任你領",
+    "link": "https://www.gameapps.hk/news/71367/epic-games-free-gladiator-blades-of-fury-quiztopia-november-2026/",
+    "image": "https://image.gameapps.hk/images/202610/31/b64d3272ac3090d9.jpg"
+  },
+  {
     "title": "RTX 5080 突然從 NVIDIA 官網消失　停產傳聞再升溫",
     "link": "https://www.gameapps.hk/news/71366/nvidia-rtx-5080-removed-official-store-discontinued-rumors/",
     "image": "https://image.gameapps.hk/images/202610/31/321.jpg"
@@ -28,25 +48,5 @@
     "title": "Epic 限時免費送恐怖神作　Steam 98% 好評永久入庫",
     "link": "https://www.gameapps.hk/news/71361/sorry-were-closed-epic-games-free-october-2026/",
     "image": "https://image.gameapps.hk/images/202610/30/21321.jpg"
-  },
-  {
-    "title": "Switch 2 獨佔《寶可夢 Pokopia》竟在 PS5 成功運行",
-    "link": "https://www.gameapps.hk/news/71360/pokemon-pokopia-switch-2-emulation-ps5-linux/",
-    "image": "https://image.gameapps.hk/images/202610/30/4a254c8cbc7341f9.jpg"
-  },
-  {
-    "title": "PS5 模擬器爆安全危機　GitHub 假冒版本暗藏密碼竊取木馬",
-    "link": "https://www.gameapps.hk/news/71359/fake-ps5-emulators-github-password-stealing-malware/",
-    "image": "https://image.gameapps.hk/images/202610/30/586c503da214c045.jpg"
-  },
-  {
-    "title": "NVIDIA RTX 20 至 40 系顯示卡解鎖工具登場　AI 運算效能最高提升近 2 倍",
-    "link": "https://www.gameapps.hk/news/71358/nvidia-rtx-gpu-uefi-unlocker-ai-performance-boost/",
-    "image": "https://image.gameapps.hk/images/202610/30/7c99f51fcd9c33e8.jpg"
-  },
-  {
-    "title": "PS6 發售時間再有新消息　分析師預測最快 2028 年登場",
-    "link": "https://www.gameapps.hk/news/71357/ps6-release-date-2028-analyst-prediction/",
-    "image": "https://image.gameapps.hk/images/202610/30/d553288f505172ea.jpg"
   }
 ]
