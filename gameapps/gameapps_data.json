@@ -1,5 +1,35 @@
 [
   {
+    "title": "Apple Mac 成功運行完整 SteamOS　《劍星》高畫質突破 70 FPS",
+    "link": "https://www.gameapps.hk/news/71389/fx-steam-launcher-apple-silicon-mac-steamos-gaming/",
+    "image": "https://image.gameapps.hk/images/202611/03/321.jpg"
+  },
+  {
+    "title": "《瑪利歐賽車世界》PC 模擬器開啟 DLSS 5　RTX 5060 Ti 跑出 60 FPS",
+    "link": "https://www.gameapps.hk/news/71388/mario-kart-world-pc-emulator-dlss-5-rtx-5060-ti-60fps/",
+    "image": "https://image.gameapps.hk/images/202611/03/312.jpg"
+  },
+  {
+    "title": "Sony 據報推出 PS5 官方回收計劃　舊主機連雙手掣最高獲 400 美元",
+    "link": "https://www.gameapps.hk/news/71387/sony-ps5-official-trade-in-cash-400/",
+    "image": "https://image.gameapps.hk/images/202610/31/3dbb93f7f8c400a7.jpg"
+  },
+  {
+    "title": "AMD 新一代 RDNA 5+ 曝光　傳 2029 年隨 Zen 7 登場",
+    "link": "https://www.gameapps.hk/news/71386/amd-rdna-5-plus-zen-7-grimlock-2029/",
+    "image": "https://image.gameapps.hk/images/202610/31/36f734897642691e.jpg"
+  },
+  {
+    "title": "Switch 2 遊戲成功登陸 Mac《咚奇剛 蕉力全開》實現 60 FPS",
+    "link": "https://www.gameapps.hk/news/71385/nxnative-switch-2-donkey-kong-bananza-mac-60fps/",
+    "image": "https://image.gameapps.hk/images/202610/31/08d9006b2956cf5e.jpg"
+  },
+  {
+    "title": "Steam 再有免費遊戲　策略卡牌遊戲好評達90%",
+    "link": "https://www.gameapps.hk/news/71384/grim-siege-steam-free-to-play/",
+    "image": "https://image.gameapps.hk/images/202610/31/f9885d17201b8af7.jpg"
+  },
+  {
     "title": "Steam 限時免費領取《Last Gambit》　11 月 13 日起轉為收費",
     "link": "https://www.gameapps.hk/news/71383/last-gambit-steam-free-before-november-13/",
     "image": "https://image.gameapps.hk/images/202610/31/a23f053a42633b33.jpg"
@@ -18,35 +48,5 @@
     "title": "PS5 突然推出新系統更新　Sony 確認修復安全漏洞",
     "link": "https://www.gameapps.hk/news/71380/ps5-system-update-26-07-14-22-00-security-fixes/",
     "image": "https://image.gameapps.hk/images/202610/31/780db2725b3fcd6a.jpg"
-  },
-  {
-    "title": "《白銀之城》12月14日全球推出　UE5開放世界偵探冒險登場",
-    "link": "https://www.gameapps.hk/news/71379/silver-palace-global-launch-december-14-2026/",
-    "image": "https://image.gameapps.hk/images/202610/31/e7ae7fd6a10e872c.jpg"
-  },
-  {
-    "title": "AMD FSR 4 技術重大更新　RX 6000 顯示卡正式獲得支援",
-    "link": "https://www.gameapps.hk/news/71378/amd-fsr-sdk-2-4-vulkan-rx-6000-adrenalin-26-10-2/",
-    "image": "https://image.gameapps.hk/images/202610/31/321321.jpg"
-  },
-  {
-    "title": "Epic 突發送出 10 款免費 PC 遊戲　恐怖冒險支援繁體中文",
-    "link": "https://www.gameapps.hk/news/71376/epic-games-store-10-free-pc-games-november-2026/",
-    "image": "https://image.gameapps.hk/images/202610/31/13fd5848a12c6adf.jpg"
-  },
-  {
-    "title": "任天堂警告《薩爾達傳說》Switch 2 限定版維修或變色",
-    "link": "https://www.gameapps.hk/news/71375/zelda-40th-anniversary-switch-2-repair-warning/",
-    "image": "https://image.gameapps.hk/images/202610/31/56a28a18a120ca10.jpg"
-  },
-  {
-    "title": "Windows 11 推出雲端重裝功能　電腦無法開機也能救機",
-    "link": "https://www.gameapps.hk/news/71374/windows-11-cloud-rebuild-reinstall-without-usb/",
-    "image": "https://image.gameapps.hk/images/202610/31/b7c2dfac386f2dd2.jpg"
-  },
-  {
-    "title": "PS3 模擬器 RPCS3 重大更新　Apple Silicon Mac 遊戲畫面改善",
-    "link": "https://www.gameapps.hk/news/71373/rpcs3-ps3-emulator-apple-silicon-mac-graphics-update/",
-    "image": "https://image.gameapps.hk/images/202610/31/2decaca308d117d2.jpg"
   }
 ]
