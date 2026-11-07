@@ -1,5 +1,45 @@
 [
   {
+    "title": "任天堂宮本茂突發身體不適缺席財報會議　官方公布最新健康情況",
+    "link": "https://www.gameapps.hk/news/71410/shigeru-miyamoto-sudden-illness-nintendo-2026/",
+    "image": "https://image.gameapps.hk/images/202611/04/80440d045250c2ff.jpg"
+  },
+  {
+    "title": "NVIDIA RTX 5070 Ti 價格失控　部分型號飆至官方定價兩倍",
+    "link": "https://www.gameapps.hk/news/71409/rtx-5070-ti-price-double-msrp-2026/",
+    "image": "https://image.gameapps.hk/images/202611/04/32.jpg"
+  },
+  {
+    "title": "《薩爾達傳說 時之笛》重製版發售前遭破解　PC 成功運行",
+    "link": "https://www.gameapps.hk/news/71408/zelda-ocarina-of-time-remake-switch-2-pc-emulator/",
+    "image": "https://image.gameapps.hk/images/202611/04/ca29a5ac67915229.jpg"
+  },
+  {
+    "title": "《The Spotter: Dig or Die》登陸手機　白天挖礦晚上迎戰變異怪物",
+    "link": "https://www.gameapps.hk/news/71407/the-spotter-dig-or-die-mobile-android-ios-release/",
+    "image": "https://image.gameapps.hk/images/202611/04/7dee8d0267eee7a0.jpg"
+  },
+  {
+    "title": "Steam 週末 5 款免費遊戲推薦　恐怖冒險與 RPG 任你玩",
+    "link": "https://www.gameapps.hk/news/71406/steam-5-free-games-weekend-november-2026/",
+    "image": "https://image.gameapps.hk/images/202611/04/8686fb12fda1df78.jpg"
+  },
+  {
+    "title": "AMD RX 9070 GRE 顯示卡降至 569 美元　接近官方定價",
+    "link": "https://www.gameapps.hk/news/71405/amd-radeon-rx-9070-gre-12gb-amazon-569-price/",
+    "image": "https://image.gameapps.hk/images/202611/04/33713946a9c40aed.jpg"
+  },
+  {
+    "title": "GameSir 新手掣內置螢幕　支援 Switch 2 售價僅 55 美元",
+    "link": "https://www.gameapps.hk/news/71404/gamesir-nova-vision-controller-switch-2-nioh-3/",
+    "image": "https://image.gameapps.hk/images/202611/04/ee44359cdcc88037.jpg"
+  },
+  {
+    "title": "Sony 確認 PS6 開發按計劃進行　次世代主機進度曝光",
+    "link": "https://www.gameapps.hk/news/71403/ps6-development-on-schedule-sony-next-gen-investment/",
+    "image": "https://image.gameapps.hk/images/202611/04/f2b6a076b8bff87d.jpg"
+  },
+  {
     "title": "EA 經典遊戲大復活　Steam 一口氣推出 25 款作品限時半價",
     "link": "https://www.gameapps.hk/news/71402/ea-25-classic-pc-games-steam-road-rash-wing-commander/",
     "image": "https://image.gameapps.hk/images/202611/04/d0bea371227b929e.jpg"
@@ -8,45 +48,5 @@
     "title": "MSI Claw A8 確認支援 FSR 4.1　預計 12 月推出更新",
     "link": "https://www.gameapps.hk/news/71401/msi-claw-a8-amd-fsr-4-1-december-driver-update/",
     "image": "https://image.gameapps.hk/images/202611/04/fe908ab051a9f44c.jpg"
-  },
-  {
-    "title": "AMD 首次擊敗 Nvidia 美國 Amazon 顯示卡銷量逆轉",
-    "link": "https://www.gameapps.hk/news/71400/amd-overtakes-nvidia-amazon-us-gpu-sales/",
-    "image": "https://image.gameapps.hk/images/202611/04/12321.jpg"
-  },
-  {
-    "title": "《奇蹟時代 4》Steam、Xbox 限時免費玩 4 天　完整本體開放體驗",
-    "link": "https://www.gameapps.hk/news/71399/age-of-wonders-4-free-weekend-steam-xbox-november-2026/",
-    "image": "https://image.gameapps.hk/images/202611/04/b5c8fcebc5589afa.jpg"
-  },
-  {
-    "title": "任天堂 Switch 2 實體卡帶恐生變 主要晶片供應商縮減生產",
-    "link": "https://www.gameapps.hk/news/71398/nintendo-switch-2-cartridge-supplier-macronix-rom-production/",
-    "image": "https://image.gameapps.hk/images/202611/04/5fef192548383f5c.jpg"
-  },
-  {
-    "title": "《霍格華茲的傳承2》正式確認開發中　華納兄弟首度明確表態",
-    "link": "https://www.gameapps.hk/news/71397/hogwarts-legacy-2-officially-confirmed-second-installment/",
-    "image": "https://image.gameapps.hk/images/202611/04/bf09479f01f5ddca.jpg"
-  },
-  {
-    "title": "RTX Spark 實機展示曝光　97 款 PC 遊戲已支援",
-    "link": "https://www.gameapps.hk/news/71396/nvidia-rtx-spark-97-pc-games-dlss-5-demo/",
-    "image": "https://image.gameapps.hk/images/202611/04/8ddcbaf182ef8a69.jpg"
-  },
-  {
-    "title": "PS Plus 11月免費遊戲開放領取 《死亡島2》等3款大作登場",
-    "link": "https://www.gameapps.hk/news/71395/ps-plus-november-2026-free-games-dead-island-2/",
-    "image": "https://image.gameapps.hk/images/202611/04/04eb21aed08a4aea.jpg"
-  },
-  {
-    "title": "《GigaBash》手機版11月10日推出　哥斯拉、超人力霸王參戰",
-    "link": "https://www.gameapps.hk/news/71394/gigabash-mobile-android-november-10-release/",
-    "image": "https://image.gameapps.hk/images/202611/04/321.jpg"
-  },
-  {
-    "title": "Sony 向部分玩家推送 PS5 回收通知　PS5 Pro 最高估價 750 美元",
-    "link": "https://www.gameapps.hk/news/71393/playstation-ps5-pro-trade-in-offer-750-usd/",
-    "image": "https://image.gameapps.hk/images/202611/03/9dd021e6c8b4735d.jpg"
   }
 ]
