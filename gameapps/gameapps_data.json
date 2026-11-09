@@ -1,5 +1,40 @@
 [
   {
+    "title": "AMD 確認 Radeon 驅動程式出錯　SSD 持續寫入恐影響壽命",
+    "link": "https://www.gameapps.hk/news/71425/amd-radeon-driver-ssd-write-bug-adrenalin-26-11-1/",
+    "image": "https://image.gameapps.hk/images/202611/09/edf91fb1742f8bed.jpg"
+  },
+  {
+    "title": "PS Plus 遊戲陣容曝光《勇者鬥惡龍3》《真・三國無雙 起源》即將加入",
+    "link": "https://www.gameapps.hk/news/71424/ps-plus-dragon-quest-3-dynasty-warriors-origins-2026/",
+    "image": "https://image.gameapps.hk/images/202611/09/321.jpg"
+  },
+  {
+    "title": "《生化危機：聖女密碼》重製版傳延期至2027年秋季　原因曝光",
+    "link": "https://www.gameapps.hk/news/71423/resident-evil-veronica-remake-fall-2027-delay/",
+    "image": "https://image.gameapps.hk/images/202611/09/2132121.jpg"
+  },
+  {
+    "title": "前PlayStation高層批PS6追求性能無意義　建議售價降至300美元",
+    "link": "https://www.gameapps.hk/news/71422/ps6-shawn-layden-300-dollar-console/",
+    "image": "https://image.gameapps.hk/images/202611/08/3861c251ec2f9195.jpg"
+  },
+  {
+    "title": "任天堂確認正測試 Switch 2 全新玩法　神秘功能引關注",
+    "link": "https://www.gameapps.hk/news/71421/nintendo-switch-2-new-gameplay-testing/",
+    "image": "https://image.gameapps.hk/images/202611/09/21312.jpg"
+  },
+  {
+    "title": "《寶可夢 風與波》傳延期一年　爆料揭開發未完成拖累動畫排程",
+    "link": "https://www.gameapps.hk/news/71420/pokemon-winds-waves-delay-2027-anime-schedule/",
+    "image": "https://image.gameapps.hk/images/202611/08/0825f740cbe7ca2c.jpg"
+  },
+  {
+    "title": "NVIDIA 黃仁勳捲入中國間諜疑雲　董事會正式啟動獨立調查",
+    "link": "https://www.gameapps.hk/news/71419/nvidia-jensen-huang-chinese-spy-investigation/",
+    "image": "https://image.gameapps.hk/images/202611/08/168915492f03995d.jpg"
+  },
+  {
     "title": "Nexon 全新 MMORPG《裝備仔》11 月 26 日推出　香港同步開服",
     "link": "https://www.gameapps.hk/news/71418/temppal-overgeared-november-26-hong-kong-launch/",
     "image": "https://image.gameapps.hk/images/202611/08/36cec8a425294302.jpg"
@@ -13,40 +48,5 @@
     "title": "PS6 手提遊戲機有望成功　前 Sony 高層警告勿與主機同步推出",
     "link": "https://www.gameapps.hk/news/71416/ps6-handheld-launch-timing-shawn-layden/",
     "image": "https://image.gameapps.hk/images/202611/08/bfa49970895a0ae7.jpg"
-  },
-  {
-    "title": "PS5 玩家集體抵制 Sony　最新數據曝光結果令人意外",
-    "link": "https://www.gameapps.hk/news/71415/playstation-blackout-sony-127-million-users/",
-    "image": "https://image.gameapps.hk/images/202611/08/cccecddb89e18631.jpg"
-  },
-  {
-    "title": "Epic Games 正式確認支援 Steam Deck　官方啟動器將登陸 SteamOS",
-    "link": "https://www.gameapps.hk/news/71414/epic-games-launcher-steam-deck-steamos-support/",
-    "image": "https://image.gameapps.hk/images/202611/04/09c273f2506f7567.jpg"
-  },
-  {
-    "title": "PS Plus 推出多項新會員福利惹不滿　玩家怒轟免費試用也算優惠",
-    "link": "https://www.gameapps.hk/news/71413/ps-plus-new-benefits-player-backlash/",
-    "image": "https://image.gameapps.hk/images/202611/08/321.jpg"
-  },
-  {
-    "title": "《漫威蜘蛛俠2》PS5狂賺12億美元　Steam收入僅7000萬",
-    "link": "https://www.gameapps.hk/news/71412/marvels-spider-man-2-ps5-steam-revenue-gap/",
-    "image": "https://image.gameapps.hk/images/202611/04/1e20ae39fb59328f.jpg"
-  },
-  {
-    "title": "Android 手機玩 PC 遊戲再升級　GameNative 1.4.0 支援 FSR 與畫格生成",
-    "link": "https://www.gameapps.hk/news/71411/gamenative-1-4-0-android-gamescope-fsr-lsfg/",
-    "image": "https://image.gameapps.hk/images/202611/04/53c9b81d7fa080d0.jpg"
-  },
-  {
-    "title": "任天堂宮本茂突發身體不適缺席財報會議　官方公布最新健康情況",
-    "link": "https://www.gameapps.hk/news/71410/shigeru-miyamoto-sudden-illness-nintendo-2026/",
-    "image": "https://image.gameapps.hk/images/202611/04/80440d045250c2ff.jpg"
-  },
-  {
-    "title": "NVIDIA RTX 5070 Ti 價格失控　部分型號飆至官方定價兩倍",
-    "link": "https://www.gameapps.hk/news/71409/rtx-5070-ti-price-double-msrp-2026/",
-    "image": "https://image.gameapps.hk/images/202611/04/32.jpg"
   }
 ]
