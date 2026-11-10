@@ -1,52 +1,52 @@
 [
   {
+    "title": "Apple Siri AI 記憶功能曝光　iOS 27.3 可記住用戶生活習慣",
+    "link": "https://www.gameapps.hk/news/71434/apple-siri-ai-ios-27-3-personal-memory-graph/",
+    "image": "https://image.gameapps.hk/images/202611/10/d6ce2f1889fded79.jpg"
+  },
+  {
+    "title": "Nintendo Switch 2 更新 23.5.0 推出　eShop 送禮功能即將登場",
+    "link": "https://www.gameapps.hk/news/71433/nintendo-switch-2-update-23-5-0-eshop-gifting/",
+    "image": "https://image.gameapps.hk/images/202611/10/0856a0561976b899.jpg"
+  },
+  {
+    "title": "聯合創新推出27吋QD-OLED螢幕　120Hz售價僅1599元",
+    "link": "https://www.gameapps.hk/news/71432/innocn-c27q1-27-inch-qd-oled-120hz-monitor/",
+    "image": "https://image.gameapps.hk/images/202611/10/decfcc35606effc1.jpg"
+  },
+  {
+    "title": "《GTA 6》PS5 Pro 技術資料曝光　或支援新版 PSSR 與 120Hz",
+    "link": "https://www.gameapps.hk/news/71431/gta-6-ps5-pro-pssr-120hz-cpu-boost/",
+    "image": "https://image.gameapps.hk/images/202611/10/1a66b9bb38210e67.jpg"
+  },
+  {
+    "title": "《GTA 6》今日正式開放預先下載　容量高達212GB　PS5與Xbox時間不同",
+    "link": "https://www.gameapps.hk/news/71430/gta-6-preload-ps5-xbox-november-10-download-guide/",
+    "image": "https://image.gameapps.hk/images/202611/10/b3c7b00b3f443940.jpg"
+  },
+  {
+    "title": "《GTA 6》掀請假潮　英國8.3萬打工仔為打機請假　企業恐損失1200萬英鎊",
+    "link": "https://www.gameapps.hk/news/71429/gta-6-uk-83000-workers-leave-12-million-loss/",
+    "image": "https://image.gameapps.hk/images/202611/10/321.jpg"
+  },
+  {
+    "title": "Steam 玩家注意　Humble Choice 11 月 8 款遊戲陣容曝光",
+    "link": "https://www.gameapps.hk/news/71428/humble-choice-november-2026-dysmantle-steam-games/",
+    "image": "https://image.gameapps.hk/images/202611/09/6cbdacd41b7968d3.jpg"
+  },
+  {
+    "title": "AMD RDNA 5 驅動程式曝光　逾 1.26 萬行程式碼揭兩款 GPU 配置",
+    "link": "https://www.gameapps.hk/news/71427/amd-rdna-5-gfx13-linux-driver-patches/",
+    "image": "https://image.gameapps.hk/images/202611/09/a8b02bb77bda2d0d.jpg"
+  },
+  {
+    "title": "《為了吾王 II》Steam 限時免費玩3天　完整遊戲開放體驗",
+    "link": "https://www.gameapps.hk/news/71426/for-the-king-2-steam-free-play-november-2026/",
+    "image": "https://image.gameapps.hk/images/202611/09/ab07424e4a073e25.jpg"
+  },
+  {
     "title": "AMD 確認 Radeon 驅動程式出錯　SSD 持續寫入恐影響壽命",
     "link": "https://www.gameapps.hk/news/71425/amd-radeon-driver-ssd-write-bug-adrenalin-26-11-1/",
     "image": "https://image.gameapps.hk/images/202611/09/edf91fb1742f8bed.jpg"
-  },
-  {
-    "title": "PS Plus 遊戲陣容曝光《勇者鬥惡龍3》《真・三國無雙 起源》即將加入",
-    "link": "https://www.gameapps.hk/news/71424/ps-plus-dragon-quest-3-dynasty-warriors-origins-2026/",
-    "image": "https://image.gameapps.hk/images/202611/09/321.jpg"
-  },
-  {
-    "title": "《生化危機：聖女密碼》重製版傳延期至2027年秋季　原因曝光",
-    "link": "https://www.gameapps.hk/news/71423/resident-evil-veronica-remake-fall-2027-delay/",
-    "image": "https://image.gameapps.hk/images/202611/09/2132121.jpg"
-  },
-  {
-    "title": "前PlayStation高層批PS6追求性能無意義　建議售價降至300美元",
-    "link": "https://www.gameapps.hk/news/71422/ps6-shawn-layden-300-dollar-console/",
-    "image": "https://image.gameapps.hk/images/202611/08/3861c251ec2f9195.jpg"
-  },
-  {
-    "title": "任天堂確認正測試 Switch 2 全新玩法　神秘功能引關注",
-    "link": "https://www.gameapps.hk/news/71421/nintendo-switch-2-new-gameplay-testing/",
-    "image": "https://image.gameapps.hk/images/202611/09/21312.jpg"
-  },
-  {
-    "title": "《寶可夢 風與波》傳延期一年　爆料揭開發未完成拖累動畫排程",
-    "link": "https://www.gameapps.hk/news/71420/pokemon-winds-waves-delay-2027-anime-schedule/",
-    "image": "https://image.gameapps.hk/images/202611/08/0825f740cbe7ca2c.jpg"
-  },
-  {
-    "title": "NVIDIA 黃仁勳捲入中國間諜疑雲　董事會正式啟動獨立調查",
-    "link": "https://www.gameapps.hk/news/71419/nvidia-jensen-huang-chinese-spy-investigation/",
-    "image": "https://image.gameapps.hk/images/202611/08/168915492f03995d.jpg"
-  },
-  {
-    "title": "Nexon 全新 MMORPG《裝備仔》11 月 26 日推出　香港同步開服",
-    "link": "https://www.gameapps.hk/news/71418/temppal-overgeared-november-26-hong-kong-launch/",
-    "image": "https://image.gameapps.hk/images/202611/08/36cec8a425294302.jpg"
-  },
-  {
-    "title": "《STAR WARS 零號連隊》銷量破百萬　開發商仍裁員惹關注",
-    "link": "https://www.gameapps.hk/news/71417/star-wars-zero-company-bit-reactor-layoffs/",
-    "image": "https://image.gameapps.hk/images/202611/08/29f49b6be364a3fe.jpg"
-  },
-  {
-    "title": "PS6 手提遊戲機有望成功　前 Sony 高層警告勿與主機同步推出",
-    "link": "https://www.gameapps.hk/news/71416/ps6-handheld-launch-timing-shawn-layden/",
-    "image": "https://image.gameapps.hk/images/202611/08/bfa49970895a0ae7.jpg"
   }
 ]
