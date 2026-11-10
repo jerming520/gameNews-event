@@ -1,5 +1,25 @@
 [
   {
+    "title": "RTX 5090 缺貨潮擴大　HP、Lenovo 高階遊戲電腦也買不到",
+    "link": "https://www.gameapps.hk/news/71438/nvidia-rtx-5090-shortage-hp-lenovo-gaming-pc/",
+    "image": "https://image.gameapps.hk/images/202611/10/c258d66da1cd2ced.jpg"
+  },
+  {
+    "title": "Retroid Pocket Duo 與 AYN Thor 迎重大升級　3DS 模擬效能提升 15%",
+    "link": "https://www.gameapps.hk/news/71437/azahar-2127-3ds-emulator-performance-update/",
+    "image": "https://image.gameapps.hk/images/202611/10/0540dee50ad05d9b.jpg"
+  },
+  {
+    "title": "Steam重大更新 Steam Deck遊戲平均FPS正式公開 買前即睇效能",
+    "link": "https://www.gameapps.hk/news/71436/steam-deck-average-fps-store-update/",
+    "image": "https://image.gameapps.hk/images/202611/10/321321.jpg"
+  },
+  {
+    "title": "Steam 最新 5 款免費遊戲曝光 涵蓋射擊、肉鴿及多人對戰",
+    "link": "https://www.gameapps.hk/news/71435/steam-5-free-games-kingslayers-fallgate-november-2026/",
+    "image": "https://image.gameapps.hk/images/202611/10/8466bb3fcce7d769.jpg"
+  },
+  {
     "title": "Apple Siri AI 記憶功能曝光　iOS 27.3 可記住用戶生活習慣",
     "link": "https://www.gameapps.hk/news/71434/apple-siri-ai-ios-27-3-personal-memory-graph/",
     "image": "https://image.gameapps.hk/images/202611/10/d6ce2f1889fded79.jpg"
@@ -28,25 +48,5 @@
     "title": "《GTA 6》掀請假潮　英國8.3萬打工仔為打機請假　企業恐損失1200萬英鎊",
     "link": "https://www.gameapps.hk/news/71429/gta-6-uk-83000-workers-leave-12-million-loss/",
     "image": "https://image.gameapps.hk/images/202611/10/321.jpg"
-  },
-  {
-    "title": "Steam 玩家注意　Humble Choice 11 月 8 款遊戲陣容曝光",
-    "link": "https://www.gameapps.hk/news/71428/humble-choice-november-2026-dysmantle-steam-games/",
-    "image": "https://image.gameapps.hk/images/202611/09/6cbdacd41b7968d3.jpg"
-  },
-  {
-    "title": "AMD RDNA 5 驅動程式曝光　逾 1.26 萬行程式碼揭兩款 GPU 配置",
-    "link": "https://www.gameapps.hk/news/71427/amd-rdna-5-gfx13-linux-driver-patches/",
-    "image": "https://image.gameapps.hk/images/202611/09/a8b02bb77bda2d0d.jpg"
-  },
-  {
-    "title": "《為了吾王 II》Steam 限時免費玩3天　完整遊戲開放體驗",
-    "link": "https://www.gameapps.hk/news/71426/for-the-king-2-steam-free-play-november-2026/",
-    "image": "https://image.gameapps.hk/images/202611/09/ab07424e4a073e25.jpg"
-  },
-  {
-    "title": "AMD 確認 Radeon 驅動程式出錯　SSD 持續寫入恐影響壽命",
-    "link": "https://www.gameapps.hk/news/71425/amd-radeon-driver-ssd-write-bug-adrenalin-26-11-1/",
-    "image": "https://image.gameapps.hk/images/202611/09/edf91fb1742f8bed.jpg"
   }
 ]
