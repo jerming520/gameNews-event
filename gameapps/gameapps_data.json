@@ -1,5 +1,20 @@
 [
   {
+    "title": "《星際：異端先知》開發進入後期打磨　2027年公開玩法與劇情",
+    "link": "https://www.gameapps.hk/news/71458/intergalactic-the-heretic-prophet-2027-gameplay-reveal/",
+    "image": "https://image.gameapps.hk/images/202611/12/321.jpg"
+  },
+  {
+    "title": "AMD 新技術突破記憶體限制　只用一半 RAM 保留 95% 效能",
+    "link": "https://www.gameapps.hk/news/71457/amd-mext-half-dram-95-percent-performance/",
+    "image": "https://image.gameapps.hk/images/202611/11/e1448ca5fcc98720.jpg"
+  },
+  {
+    "title": "任天堂大規模封殺 Switch 破解工具　144 個 GitHub 專案遭下架",
+    "link": "https://www.gameapps.hk/news/71456/nintendo-switch-modchip-firmware-dmca-144-repos/",
+    "image": "https://image.gameapps.hk/images/202611/11/312.jpg"
+  },
+  {
     "title": "玩家苦等數月等來大烏龍 華碩 ROG Ally 顯卡驅動誤放成 Intel 儲存檔",
     "link": "https://www.gameapps.hk/news/71455/asus-rog-ally-x-amd-graphics-driver-intel-download-error/",
     "image": "https://image.gameapps.hk/images/202611/11/def9cbe4d9662ddd.jpg"
@@ -33,20 +48,5 @@
     "title": "《薩爾達傳說 時之笛》Switch 2 重製版大賣　4日突破520萬套",
     "link": "https://www.gameapps.hk/news/71449/zelda-ocarina-of-time-switch-2-5-2-million-sales/",
     "image": "https://image.gameapps.hk/images/202611/11/6304669d9ee15586.jpg"
-  },
-  {
-    "title": "任天堂宣佈2027年停用Google及Apple帳號登入　玩家要注意",
-    "link": "https://www.gameapps.hk/news/71448/nintendo-account-google-apple-login-ending-2027/",
-    "image": "https://image.gameapps.hk/images/202611/11/a6afe2c74f5c3a8e.jpg"
-  },
-  {
-    "title": "《遊戲王 TAG FORCE GX》實機首曝　收錄逾3800張卡牌",
-    "link": "https://www.gameapps.hk/news/71447/yu-gi-oh-tag-force-gx-gameplay-3800-cards/",
-    "image": "https://image.gameapps.hk/images/202611/11/50cf661960361ddb.jpg"
-  },
-  {
-    "title": "Sony 悄悄更新 PS5 商店　新增硬件專區連主機都可以買",
-    "link": "https://www.gameapps.hk/news/71446/playstation-store-ps5-hardware-shopping-section/",
-    "image": "https://image.gameapps.hk/images/202611/11/21321.jpg"
   }
 ]
